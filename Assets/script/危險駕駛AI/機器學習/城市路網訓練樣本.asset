@@ -1,0 +1,1585 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0977e0f78ddf1a2488354d3fe3bab4f2, type: 3}
+  m_Name: "\u57CE\u5E02\u8DEF\u7DB2\u8A13\u7DF4\u6A23\u672C"
+  m_EditorClassIdentifier: 
+  samples:
+  - adjOffset: 5.489962
+    adjEndFromPlayer: 999
+    headingChange: 14.835451
+    position: {x: 268.45502, y: 2.5212402, z: 60.270325}
+  - adjOffset: 4.669881
+    adjEndFromPlayer: 999
+    headingChange: 1.1276116
+    position: {x: 225.695, y: 2.5212402, z: 246.12534}
+  - adjOffset: 4.273118
+    adjEndFromPlayer: 75.99999
+    headingChange: 1.4112531
+    position: {x: 528.515, y: 2.5212402, z: -142.80966}
+  - adjOffset: -5.1062183
+    adjEndFromPlayer: 999
+    headingChange: 10.866836
+    position: {x: 459.245, y: 2.5212402, z: -95.30968}
+  - adjOffset: -4.728587
+    adjEndFromPlayer: 999
+    headingChange: 13.102715
+    position: {x: 232.155, y: 2.5212402, z: 159.62534}
+  - adjOffset: 4.1126337
+    adjEndFromPlayer: 999
+    headingChange: 9.057357
+    position: {x: 255.49501, y: 2.5212402, z: 112.11033}
+  - adjOffset: -5.0119295
+    adjEndFromPlayer: 999
+    headingChange: 3.0355747
+    position: {x: 776.51196, y: 2.3502808, z: -170.03497}
+  - adjOffset: -5.1301403
+    adjEndFromPlayer: 999
+    headingChange: 2.0001736
+    position: {x: 833.57196, y: 2.3502808, z: -179.34999}
+  - adjOffset: 4.015317
+    adjEndFromPlayer: 999
+    headingChange: 2.0001736
+    position: {x: 833.57196, y: 2.3502808, z: -179.34999}
+  - adjOffset: 4.327776
+    adjEndFromPlayer: 999
+    headingChange: 6.365534
+    position: {x: 245.39001, y: 2.5212402, z: 154.07033}
+  - adjOffset: 4.5046186
+    adjEndFromPlayer: 999
+    headingChange: 13.520132
+    position: {x: 428.39, y: 2.5212402, z: -85.43468}
+  - adjOffset: 4.668036
+    adjEndFromPlayer: 999
+    headingChange: 7.8391705
+    position: {x: 223.65501, y: 2.5212402, z: 334.82532}
+  - adjOffset: 4.3005033
+    adjEndFromPlayer: 999
+    headingChange: 12.81989
+    position: {x: 262.29498, y: 2.5212402, z: 91.29033}
+  - adjOffset: -4.9783325
+    adjEndFromPlayer: 156
+    headingChange: 1.003077
+    position: {x: 528.26166, y: 2.5212402, z: 115.060326}
+  - adjOffset: -4.8222475
+    adjEndFromPlayer: 136
+    headingChange: 1.0447394
+    position: {x: 528.425, y: 2.5212402, z: 95.18033}
+  - adjOffset: -4.709383
+    adjEndFromPlayer: 116.00001
+    headingChange: 1.0447394
+    position: {x: 528.5883, y: 2.5212402, z: 75.30032}
+  - adjOffset: -5.3139305
+    adjEndFromPlayer: 999
+    headingChange: 2.1018927
+    position: {x: 210.82, y: 2.5212402, z: 335.28033}
+  - adjOffset: 5.468216
+    adjEndFromPlayer: 999
+    headingChange: 5.3445616
+    position: {x: 582.06506, y: 2.5212402, z: -152.18466}
+  - adjOffset: -5.0454845
+    adjEndFromPlayer: 999
+    headingChange: 1.2823743
+    position: {x: 207.445, y: 2.5212402, z: 372.63034}
+  - adjOffset: -4.9641776
+    adjEndFromPlayer: 999
+    headingChange: 4.235356
+    position: {x: 206.25002, y: 2.5212402, z: 391.53033}
+  - adjOffset: -5.1494803
+    adjEndFromPlayer: 999
+    headingChange: 7.7642746
+    position: {x: 477.04, y: 2.5212402, z: -103.51967}
+  - adjOffset: -3.8099365
+    adjEndFromPlayer: 999
+    headingChange: 0
+    position: {x: 526.15, y: 2.5212402, z: 394.53033}
+  - adjOffset: -3.8099365
+    adjEndFromPlayer: 999
+    headingChange: 0
+    position: {x: 526.15, y: 2.5212402, z: 347.49533}
+  - adjOffset: 4.3861513
+    adjEndFromPlayer: 999
+    headingChange: 6.0339046
+    position: {x: 249.91002, y: 2.5212402, z: 133.72534}
+  - adjOffset: 4.726432
+    adjEndFromPlayer: 125.99999
+    headingChange: 3.4215953
+    position: {x: 578.2269, y: 2.3502808, z: -138.38998}
+  - adjOffset: 4.0999756
+    adjEndFromPlayer: 999
+    headingChange: 1.0777451
+    position: {x: 530.25, y: 2.5212402, z: 325.63535}
+  - adjOffset: 5.486143
+    adjEndFromPlayer: 999
+    headingChange: 2.2763228
+    position: {x: 222.03001, y: 2.5212402, z: 279.95032}
+  - adjOffset: -3.8099365
+    adjEndFromPlayer: 999
+    headingChange: 0
+    position: {x: 526.15, y: 2.5212402, z: 368.18033}
+  - adjOffset: -5.5164695
+    adjEndFromPlayer: 999
+    headingChange: 1.0620155
+    position: {x: 232.05501, y: 2.5212402, z: 302.41034}
+  - adjOffset: -5.193264
+    adjEndFromPlayer: 999
+    headingChange: 1.5500287
+    position: {x: 214.37502, y: 2.5212402, z: 298.23532}
+  - adjOffset: -3.8099365
+    adjEndFromPlayer: 156
+    headingChange: 0
+    position: {x: 526.15, y: 2.5212402, z: 325.48532}
+  - adjOffset: -4.963218
+    adjEndFromPlayer: 999
+    headingChange: 10.937527
+    position: {x: 463.7, y: 2.5212402, z: -116.55467}
+  - adjOffset: -3.7829196
+    adjEndFromPlayer: 126
+    headingChange: 0
+    position: {x: 526.15, y: 2.5212402, z: 293.99033}
+  - adjOffset: 5.112437
+    adjEndFromPlayer: 999
+    headingChange: 9.708246
+    position: {x: 329.08002, y: 2.5212402, z: -21.454666}
+  - adjOffset: -4.948602
+    adjEndFromPlayer: 999
+    headingChange: 13.056478
+    position: {x: 439.875, y: 2.5212402, z: -85.964676}
+  - adjOffset: -5.2474747
+    adjEndFromPlayer: 999
+    headingChange: 3.704859
+    position: {x: 727.51697, y: 2.3502808, z: -169.76498}
+  - adjOffset: 4.6210113
+    adjEndFromPlayer: 999
+    headingChange: 3.704859
+    position: {x: 727.51697, y: 2.3502808, z: -169.76498}
+  - adjOffset: -5.63015
+    adjEndFromPlayer: 126
+    headingChange: 3.9122145
+    position: {x: 814.69196, y: 2.3502808, z: -177.97499}
+  - adjOffset: 4.3622108
+    adjEndFromPlayer: 999
+    headingChange: 3.9122145
+    position: {x: 814.69196, y: 2.3502808, z: -177.97499}
+  - adjOffset: 4.6580153
+    adjEndFromPlayer: 999
+    headingChange: 1.1272645
+    position: {x: 242.18501, y: 2.5212402, z: 172.05533}
+  - adjOffset: 3.9270966
+    adjEndFromPlayer: 999
+    headingChange: 11.675482
+    position: {x: 363.34, y: 2.5212402, z: -42.329666}
+  - adjOffset: -5.323148
+    adjEndFromPlayer: 196
+    headingChange: 5.6183105
+    position: {x: 708.6444, y: 2.3502808, z: -167.01749}
+  - adjOffset: 4.390763
+    adjEndFromPlayer: 999
+    headingChange: 5.6183105
+    position: {x: 708.6444, y: 2.3502808, z: -167.01749}
+  - adjOffset: 4.459721
+    adjEndFromPlayer: 999
+    headingChange: 7.4353228
+    position: {x: 687.19946, y: 2.3502808, z: -163.78247}
+  - adjOffset: -5.384055
+    adjEndFromPlayer: 999
+    headingChange: 5.2585163
+    position: {x: 747.36694, y: 2.3502808, z: -172.19498}
+  - adjOffset: 4.648315
+    adjEndFromPlayer: 999
+    headingChange: 5.2585163
+    position: {x: 747.36694, y: 2.3502808, z: -172.19498}
+  - adjOffset: 4.8600755
+    adjEndFromPlayer: 999
+    headingChange: 10.425811
+    position: {x: 356.325, y: 2.5212402, z: -45.72467}
+  - adjOffset: 5.478215
+    adjEndFromPlayer: 999
+    headingChange: 13.965924
+    position: {x: 288.48, y: 2.5212402, z: 26.955338}
+  - adjOffset: -3.8099365
+    adjEndFromPlayer: 999
+    headingChange: 0
+    position: {x: 526.15, y: 2.5212402, z: 310.04532}
+  - adjOffset: -5.3867335
+    adjEndFromPlayer: 999
+    headingChange: 1.5805342
+    position: {x: 212.68501, y: 2.5212402, z: 315.22534}
+  - adjOffset: -5.064475
+    adjEndFromPlayer: 999
+    headingChange: 11.923521
+    position: {x: 403.39502, y: 2.5212402, z: -65.05466}
+  - adjOffset: -4.5433383
+    adjEndFromPlayer: 116.00001
+    headingChange: 4.6115065
+    position: {x: 623.50195, y: 2.3502808, z: -150.95497}
+  - adjOffset: 4.50065
+    adjEndFromPlayer: 176
+    headingChange: 4.6115065
+    position: {x: 623.50195, y: 2.3502808, z: -150.95497}
+  - adjOffset: -5.2063465
+    adjEndFromPlayer: 136
+    headingChange: 4.0771265
+    position: {x: 558.49, y: 2.5212402, z: -151.15967}
+  - adjOffset: 4.9155912
+    adjEndFromPlayer: 136
+    headingChange: 4.0771265
+    position: {x: 558.49, y: 2.5212402, z: -151.15967}
+  - adjOffset: 4.772776
+    adjEndFromPlayer: 999
+    headingChange: 1.1733651
+    position: {x: 227.50002, y: 2.5212402, z: 292.6303}
+  - adjOffset: 4.261824
+    adjEndFromPlayer: 999
+    headingChange: 13.315418
+    position: {x: 272.02002, y: 2.5212402, z: 68.77533}
+  - adjOffset: -5.5883455
+    adjEndFromPlayer: 999
+    headingChange: 2.7635715
+    position: {x: 241.365, y: 2.5212402, z: 218.78532}
+  - adjOffset: -4.803655
+    adjEndFromPlayer: 96
+    headingChange: 11.870594
+    position: {x: 443.66003, y: 2.5212402, z: -106.82468}
+  - adjOffset: 4.869575
+    adjEndFromPlayer: 999
+    headingChange: 14.847117
+    position: {x: 378.03, y: 2.5212402, z: -53.51967}
+  - adjOffset: 4.715071
+    adjEndFromPlayer: 106.00001
+    headingChange: 8.134508
+    position: {x: 558.342, y: 2.3502808, z: -132.53998}
+  - adjOffset: -4.969973
+    adjEndFromPlayer: 999
+    headingChange: 9.19101
+    position: {x: 389.66, y: 2.5212402, z: -55.709656}
+  - adjOffset: -4.9366236
+    adjEndFromPlayer: 999
+    headingChange: 4.184837
+    position: {x: 219.675, y: 2.5212402, z: 250.56033}
+  - adjOffset: -4.590027
+    adjEndFromPlayer: 86
+    headingChange: 7.3109665
+    position: {x: 528.67, y: 2.5212402, z: 52.910324}
+  - adjOffset: -3.8099365
+    adjEndFromPlayer: 999
+    headingChange: 2.7356648
+    position: {x: 526.15, y: 2.5212402, z: 260.54034}
+  - adjOffset: -3.8099365
+    adjEndFromPlayer: 999
+    headingChange: 0
+    position: {x: 526.15, y: 2.5212402, z: 277.35034}
+  - adjOffset: 5.8588676
+    adjEndFromPlayer: 999
+    headingChange: 0.8645667
+    position: {x: 214.79, y: 2.5212402, z: 357.28033}
+  - adjOffset: -5.1892815
+    adjEndFromPlayer: 999
+    headingChange: 7.6096573
+    position: {x: 229.98502, y: 2.5212402, z: 323.83032}
+  - adjOffset: 4.8666053
+    adjEndFromPlayer: 999
+    headingChange: 9.865297
+    position: {x: 471.825, y: 2.5212402, z: -106.78967}
+  - adjOffset: -4.8575397
+    adjEndFromPlayer: 146
+    headingChange: 5.0188365
+    position: {x: 554.4475, y: 2.5212402, z: -155.05717}
+  - adjOffset: -5.104249
+    adjEndFromPlayer: 136
+    headingChange: 5.0188365
+    position: {x: 572.9825, y: 2.5212402, z: -160.77217}
+  - adjOffset: -4.2192464
+    adjEndFromPlayer: 999
+    headingChange: 4.214821
+    position: {x: 221.74, y: 2.5212402, z: 232.60033}
+  - adjOffset: 5.6149464
+    adjEndFromPlayer: 999
+    headingChange: 14.536264
+    position: {x: 278.57, y: 2.5212402, z: 42.52533}
+  - adjOffset: -4.983417
+    adjEndFromPlayer: 176
+    headingChange: 0.9087062
+    position: {x: 528.25, y: 2.5212402, z: 134.15533}
+  - adjOffset: 4.80678
+    adjEndFromPlayer: 999
+    headingChange: 6.661972
+    position: {x: 225.65001, y: 2.5212402, z: 313.01532}
+  - adjOffset: 5.195211
+    adjEndFromPlayer: 999
+    headingChange: 14.285935
+    position: {x: 259.075, y: 2.5212402, z: 79.98533}
+  - adjOffset: 5.311301
+    adjEndFromPlayer: 999
+    headingChange: 8.370789
+    position: {x: 597.79504, y: 2.5212402, z: -156.80467}
+  - adjOffset: 5.688141
+    adjEndFromPlayer: 999
+    headingChange: 5.5579534
+    position: {x: 536.44196, y: 1.640274, z: -138.39998}
+  - adjOffset: -5.31707
+    adjEndFromPlayer: 106
+    headingChange: 9.259285
+    position: {x: 580.0675, y: 2.5212402, z: -157.30215}
+  - adjOffset: 5.4035316
+    adjEndFromPlayer: 106
+    headingChange: 9.259285
+    position: {x: 580.0675, y: 2.5212402, z: -157.30215}
+  - adjOffset: -4.9817953
+    adjEndFromPlayer: 999
+    headingChange: 7.9868436
+    position: {x: 225.82501, y: 2.5212402, z: 200.66034}
+  - adjOffset: -4.9282775
+    adjEndFromPlayer: 999
+    headingChange: 14.410432
+    position: {x: 286.755, y: 2.5212402, z: 19.700325}
+  - adjOffset: -3.8099365
+    adjEndFromPlayer: 999
+    headingChange: 0
+    position: {x: 526.15, y: 2.5212402, z: 380.91034}
+  - adjOffset: -5.336384
+    adjEndFromPlayer: 136
+    headingChange: 5.2071795
+    position: {x: 648.51697, y: 2.3502808, z: -156.70998}
+  - adjOffset: 4.4109344
+    adjEndFromPlayer: 999
+    headingChange: 5.2071795
+    position: {x: 648.51697, y: 2.3502808, z: -156.70998}
+  - adjOffset: 4.944913
+    adjEndFromPlayer: 999
+    headingChange: 1.9301625
+    position: {x: 234.505, y: 2.5212402, z: 229.50034}
+  - adjOffset: 5.725334
+    adjEndFromPlayer: 999
+    headingChange: 5.0813375
+    position: {x: 568.2335, y: 2.0807571, z: -147.98732}
+  - adjOffset: -5.005332
+    adjEndFromPlayer: 999
+    headingChange: 12.653653
+    position: {x: 307.85, y: 2.5212402, z: -6.86467}
+  - adjOffset: 4.199951
+    adjEndFromPlayer: 999
+    headingChange: 1.6736269
+    position: {x: 530.35, y: 2.5212402, z: 307.98535}
+  - adjOffset: 4.4000244
+    adjEndFromPlayer: 999
+    headingChange: 1.6736269
+    position: {x: 530.55005, y: 2.5212402, z: 288.7553}
+  - adjOffset: -4.385598
+    adjEndFromPlayer: 999
+    headingChange: 14.678519
+    position: {x: 248.845, y: 2.5212402, z: 92.43533}
+  - adjOffset: -4.891052
+    adjEndFromPlayer: 999
+    headingChange: 1.7397885
+    position: {x: 216.23001, y: 2.5212402, z: 282.10535}
+  - adjOffset: -4.316742
+    adjEndFromPlayer: 136
+    headingChange: 8.017754
+    position: {x: 404.32, y: 2.5212402, z: -85.269684}
+  - adjOffset: 5.0753684
+    adjEndFromPlayer: 999
+    headingChange: 12.587522
+    position: {x: 342.125, y: 2.5212402, z: -33.62967}
+  - adjOffset: 5.4476905
+    adjEndFromPlayer: 999
+    headingChange: 1.818546
+    position: {x: 223.88501, y: 2.5212402, z: 261.99033}
+  - adjOffset: 5.323826
+    adjEndFromPlayer: 999
+    headingChange: 11.4591675
+    position: {x: 315.82, y: 2.5212402, z: -7.739662}
+  - adjOffset: -4.743048
+    adjEndFromPlayer: 116.00001
+    headingChange: 6.8333416
+    position: {x: 424.565, y: 2.5212402, z: -96.92468}
+  - adjOffset: 4.707853
+    adjEndFromPlayer: 999
+    headingChange: 9.643551
+    position: {x: 449.30002, y: 2.5212402, z: -96.134674}
+  - adjOffset: 4.6810093
+    adjEndFromPlayer: 999
+    headingChange: 14.014744
+    position: {x: 332.14502, y: 2.5212402, z: -14.459671}
+  - adjOffset: -4.9358563
+    adjEndFromPlayer: 999
+    headingChange: 9.126041
+    position: {x: 323.505, y: 2.5212402, z: -23.15467}
+  - adjOffset: 4.634924
+    adjEndFromPlayer: 999
+    headingChange: 6.436113
+    position: {x: 413.52502, y: 2.5212402, z: -85.374664}
+  - adjOffset: -4.597522
+    adjEndFromPlayer: 999
+    headingChange: 8.517536
+    position: {x: 358.67, y: 2.5212402, z: -53.559677}
+  - adjOffset: -5.232545
+    adjEndFromPlayer: 86
+    headingChange: 3.4841392
+    position: {x: 599.99194, y: 2.3502808, z: -144.64998}
+  - adjOffset: 4.5537667
+    adjEndFromPlayer: 146
+    headingChange: 3.4841392
+    position: {x: 599.99194, y: 2.3502808, z: -144.64998}
+  - adjOffset: -5.5876136
+    adjEndFromPlayer: 999
+    headingChange: 2.0128534
+    position: {x: 234.24501, y: 2.5212402, z: 281.70532}
+  - adjOffset: -4.502576
+    adjEndFromPlayer: 166
+    headingChange: 9.756409
+    position: {x: 381.945, y: 2.5212402, z: -70.49469}
+  - adjOffset: 5.1058497
+    adjEndFromPlayer: 999
+    headingChange: 7.726976
+    position: {x: 612.95, y: 2.5212402, z: -161.11967}
+  - adjOffset: 5.4814806
+    adjEndFromPlayer: 999
+    headingChange: 8.906423
+    position: {x: 494.985, y: 2.5212402, z: -116.90468}
+  - adjOffset: 5.795883
+    adjEndFromPlayer: 999
+    headingChange: 1.8589901
+    position: {x: 211.9925, y: 2.5212402, z: 393.4753}
+  - adjOffset: 4.6605096
+    adjEndFromPlayer: 86
+    headingChange: 6.1321006
+    position: {x: 536.167, y: 2.3502808, z: -125.31998}
+  - adjOffset: 5.5163226
+    adjEndFromPlayer: 80.10285
+    headingChange: 14.543271
+    position: {x: 833.0819, y: 2.3502808, z: -184.84499}
+  - adjOffset: 4.5988355
+    adjEndFromPlayer: 999
+    headingChange: 4.550532
+    position: {x: 431.29, y: 2.5212402, z: -95.109665}
+  - adjOffset: -4.994918
+    adjEndFromPlayer: 999
+    headingChange: 3.4284549
+    position: {x: 770.662, y: 2.3502808, z: -174.53998}
+  - adjOffset: -4.6495905
+    adjEndFromPlayer: 999
+    headingChange: 10.35064
+    position: {x: 339.35, y: 2.5212402, z: -37.954666}
+  - adjOffset: -3.8099365
+    adjEndFromPlayer: 76
+    headingChange: 2.7356648
+    position: {x: 526.15, y: 2.5212402, z: 244.60033}
+  - adjOffset: -4.81865
+    adjEndFromPlayer: 999
+    headingChange: 11.191302
+    position: {x: 228.475, y: 2.5212402, z: 181.88533}
+  - adjOffset: -4.856543
+    adjEndFromPlayer: 999
+    headingChange: 2.6187553
+    position: {x: 218.01001, y: 2.5212402, z: 266.23535}
+  - adjOffset: 5.974944
+    adjEndFromPlayer: 999
+    headingChange: 2.6329186
+    position: {x: 220.41501, y: 2.5212402, z: 297.90033}
+  - adjOffset: -5.4319696
+    adjEndFromPlayer: 106
+    headingChange: 4.272097
+    position: {x: 793.87695, y: 2.3502808, z: -176.45999}
+  - adjOffset: 3.9074056
+    adjEndFromPlayer: 999
+    headingChange: 4.272097
+    position: {x: 793.87695, y: 2.3502808, z: -176.45999}
+  - adjOffset: -5.8908877
+    adjEndFromPlayer: 146
+    headingChange: 1.5991211
+    position: {x: 540.65, y: 2.5212402, z: -146.06967}
+  - adjOffset: 4.401508
+    adjEndFromPlayer: 76
+    headingChange: 1.5991211
+    position: {x: 540.65, y: 2.5212402, z: -146.06967}
+  - adjOffset: -5.510778
+    adjEndFromPlayer: 999
+    headingChange: 1.2907398
+    position: {x: 238.70001, y: 2.5212402, z: 241.30533}
+  - adjOffset: 4.8217115
+    adjEndFromPlayer: 999
+    headingChange: 1.5085688
+    position: {x: 232.145, y: 2.5212402, z: 250.76033}
+  - adjOffset: -5.068624
+    adjEndFromPlayer: 999
+    headingChange: 2.282848
+    position: {x: 209.13, y: 2.5212402, z: 354.70032}
+  - adjOffset: -5.0248413
+    adjEndFromPlayer: 999
+    headingChange: 3.3924603
+    position: {x: 223.78001, y: 2.5212402, z: 215.78033}
+  - adjOffset: -5.55465
+    adjEndFromPlayer: 999
+    headingChange: 1.2780944
+    position: {x: 236.55002, y: 2.5212402, z: 261.79034}
+  - adjOffset: 4.7367616
+    adjEndFromPlayer: 999
+    headingChange: 2.0834684
+    position: {x: 229.79001, y: 2.5212402, z: 271.72034}
+  - adjOffset: 4.529265
+    adjEndFromPlayer: 999
+    headingChange: 10.465085
+    position: {x: 393.225, y: 2.5212402, z: -64.19968}
+  - adjOffset: 4.858552
+    adjEndFromPlayer: 999
+    headingChange: 10.150246
+    position: {x: 373.83002, y: 2.5212402, z: -58.81967}
+  - adjOffset: -4.691413
+    adjEndFromPlayer: 999
+    headingChange: 7.9471
+    position: {x: 206.37001, y: 2.5212402, z: 412.99033}
+  - adjOffset: 4.609027
+    adjEndFromPlayer: 999
+    headingChange: 14.354556
+    position: {x: 347.385, y: 2.5212402, z: -28.75467}
+  - adjOffset: -4.347993
+    adjEndFromPlayer: 156
+    headingChange: 5.458908
+    position: {x: 668.50195, y: 2.3502808, z: -160.66998}
+  - adjOffset: 4.2326193
+    adjEndFromPlayer: 999
+    headingChange: 5.458908
+    position: {x: 668.50195, y: 2.3502808, z: -160.66998}
+  - adjOffset: 4.899378
+    adjEndFromPlayer: 999
+    headingChange: 9.2222805
+    position: {x: 394.81, y: 2.5212402, z: -73.56467}
+  - adjOffset: 4.9951234
+    adjEndFromPlayer: 999
+    headingChange: 2.2318664
+    position: {x: 237.12, y: 2.5212402, z: 208.84784}
+  - adjOffset: 4.4450073
+    adjEndFromPlayer: 999
+    headingChange: 3.247753
+    position: {x: 530.59503, y: 2.5212402, z: 266.01532}
+  - adjOffset: 4.200012
+    adjEndFromPlayer: 999
+    headingChange: 4.08538
+    position: {x: 530.35004, y: 2.5212402, z: 242.79033}
+  - adjOffset: 4.5999756
+    adjEndFromPlayer: 999
+    headingChange: 0.289391
+    position: {x: 533.3, y: 2.286, z: 72.40499}
+  - adjOffset: 5.005732
+    adjEndFromPlayer: 999
+    headingChange: 5.1272078
+    position: {x: 755.97, y: 2.286, z: -173.435}
+  - adjOffset: 4.8499756
+    adjEndFromPlayer: 76
+    headingChange: 12.730919
+    position: {x: 848.52, y: 2.286, z: -70.14501}
+  - adjOffset: -4.750324
+    adjEndFromPlayer: 999
+    headingChange: 0.6425489
+    position: {x: 525.19995, y: 2.286, z: 429.99246}
+  - adjOffset: -4.6799316
+    adjEndFromPlayer: 999
+    headingChange: 0.6425489
+    position: {x: 525.28, y: 2.286, z: 412.31747}
+  - adjOffset: -4.8014984
+    adjEndFromPlayer: 126.00001
+    headingChange: 5.094315
+    position: {x: 567.98816, y: 2.286, z: -153.94585}
+  - adjOffset: 5.0516953
+    adjEndFromPlayer: 116.00001
+    headingChange: 5.094315
+    position: {x: 567.98816, y: 2.286, z: -153.94585}
+  - adjOffset: -4.9967394
+    adjEndFromPlayer: 76
+    headingChange: 3.0898416
+    position: {x: 586.585, y: 2.286, z: -140.995}
+  - adjOffset: 4.814348
+    adjEndFromPlayer: 999
+    headingChange: 3.0898416
+    position: {x: 586.585, y: 2.286, z: -140.995}
+  - adjOffset: -4.4310174
+    adjEndFromPlayer: 999
+    headingChange: 12.149843
+    position: {x: 272.91245, y: 2.286, z: 77.111626}
+  - adjOffset: 5.0401907
+    adjEndFromPlayer: 999
+    headingChange: 14.831583
+    position: {x: 275.39, y: 2.286, z: 46.659992}
+  - adjOffset: -3.7689373
+    adjEndFromPlayer: 999
+    headingChange: 10.304216
+    position: {x: 449.8166, y: 2.286, z: -91.14365}
+  - adjOffset: -4.7911863
+    adjEndFromPlayer: 86
+    headingChange: 3.2467883
+    position: {x: 775.82996, y: 2.286, z: -175.29999}
+  - adjOffset: 4.8936076
+    adjEndFromPlayer: 999
+    headingChange: 3.2467883
+    position: {x: 775.82996, y: 2.286, z: -175.29999}
+  - adjOffset: -4.9282265
+    adjEndFromPlayer: 999
+    headingChange: 12.489297
+    position: {x: 775.9, y: 2.286, z: -172.79999}
+  - adjOffset: 4.5402102
+    adjEndFromPlayer: 999
+    headingChange: 0.51014066
+    position: {x: 533.28, y: 2.286, z: 64.274994}
+  - adjOffset: 5.091577
+    adjEndFromPlayer: 999
+    headingChange: 2.5568838
+    position: {x: 237.28, y: 2.22, z: 206.985}
+  - adjOffset: -4.8911624
+    adjEndFromPlayer: 176
+    headingChange: 10.938157
+    position: {x: 346.895, y: 2.286, z: -44.660004}
+  - adjOffset: -4.978002
+    adjEndFromPlayer: 96
+    headingChange: 3.4624367
+    position: {x: 602.66003, y: 2.286, z: -145.67}
+  - adjOffset: 4.815122
+    adjEndFromPlayer: 999
+    headingChange: 3.4624367
+    position: {x: 602.66003, y: 2.286, z: -145.67}
+  - adjOffset: -4.877662
+    adjEndFromPlayer: 146
+    headingChange: 9.445022
+    position: {x: 370.2, y: 2.286, z: -62.490005}
+  - adjOffset: 5.084794
+    adjEndFromPlayer: 999
+    headingChange: 1.2420655
+    position: {x: 240.65498, y: 2.253, z: 182.065}
+  - adjOffset: 3.8099365
+    adjEndFromPlayer: 999
+    headingChange: 0.14127421
+    position: {x: 529.95996, y: 2.286, z: 307.72498}
+  - adjOffset: -4.985532
+    adjEndFromPlayer: 999
+    headingChange: 5.452945
+    position: {x: 740.47, y: 2.286, z: -171.75}
+  - adjOffset: 4.9960446
+    adjEndFromPlayer: 999
+    headingChange: 5.452945
+    position: {x: 740.47, y: 2.286, z: -171.75}
+  - adjOffset: 3.8099365
+    adjEndFromPlayer: 999
+    headingChange: 0.14127421
+    position: {x: 529.95996, y: 2.286, z: 334.635}
+  - adjOffset: 3.8099365
+    adjEndFromPlayer: 999
+    headingChange: 0.14127421
+    position: {x: 529.95996, y: 2.286, z: 328.4}
+  - adjOffset: -4.799988
+    adjEndFromPlayer: 999
+    headingChange: 0
+    position: {x: 525.16, y: 2.286, z: 321.9}
+  - adjOffset: -4.5046883
+    adjEndFromPlayer: 999
+    headingChange: 6.3114934
+    position: {x: 708.45, y: 2.286, z: -162.4325}
+  - adjOffset: -4.4580293
+    adjEndFromPlayer: 999
+    headingChange: 7.2178435
+    position: {x: 687.09, y: 2.286, z: -159.2575}
+  - adjOffset: -5.554863
+    adjEndFromPlayer: 106
+    headingChange: 7.6829596
+    position: {x: 583.43506, y: 2.286, z: -158.55046}
+  - adjOffset: 5.202897
+    adjEndFromPlayer: 106
+    headingChange: 7.6829596
+    position: {x: 583.43506, y: 2.286, z: -158.55046}
+  - adjOffset: 4.6477184
+    adjEndFromPlayer: 999
+    headingChange: 8.52429
+    position: {x: 561.3452, y: 2.286, z: -133.51569}
+  - adjOffset: -5.458365
+    adjEndFromPlayer: 999
+    headingChange: 3.1387472
+    position: {x: 551.04016, y: 2.286, z: -154.70921}
+  - adjOffset: 5.280958
+    adjEndFromPlayer: 999
+    headingChange: 5.5901594
+    position: {x: 584.29297, y: 2.286, z: -153.01057}
+  - adjOffset: 4.989692
+    adjEndFromPlayer: 999
+    headingChange: 11.3132715
+    position: {x: 395.91336, y: 2.286, z: -66.58818}
+  - adjOffset: 5.081878
+    adjEndFromPlayer: 999
+    headingChange: 1.1961583
+    position: {x: 239.23499, y: 2.22, z: 192.685}
+  - adjOffset: -4.799988
+    adjEndFromPlayer: 999
+    headingChange: 0
+    position: {x: 525.16, y: 2.286, z: 334.595}
+  - adjOffset: -4.8322806
+    adjEndFromPlayer: 999
+    headingChange: 2.8908987
+    position: {x: 250.10248, y: 2.286, z: 155.13998}
+  - adjOffset: -5.0139685
+    adjEndFromPlayer: 999
+    headingChange: 2.8908987
+    position: {x: 247.4675, y: 2.286, z: 171.28}
+  - adjOffset: 3.8099365
+    adjEndFromPlayer: 999
+    headingChange: 0
+    position: {x: 529.95996, y: 2.286, z: 391.00497}
+  - adjOffset: 4.5977173
+    adjEndFromPlayer: 999
+    headingChange: 10.365267
+    position: {x: 361.36, y: 2.286, z: -49.83}
+  - adjOffset: -5.1441026
+    adjEndFromPlayer: 216
+    headingChange: 11.340918
+    position: {x: 324.805, y: 2.286, z: -24.745003}
+  - adjOffset: 5.4064455
+    adjEndFromPlayer: 999
+    headingChange: 0.8127698
+    position: {x: 217.06998, y: 2.28, z: 325.99}
+  - adjOffset: 5.0551195
+    adjEndFromPlayer: 999
+    headingChange: 4.12032
+    position: {x: 649.36, y: 2.286, z: -162.59}
+  - adjOffset: -4.03448
+    adjEndFromPlayer: 999
+    headingChange: 1.7126937
+    position: {x: 833.125, y: 2.286, z: -175.26999}
+  - adjOffset: 5.0915284
+    adjEndFromPlayer: 999
+    headingChange: 0.86411387
+    position: {x: 214.32498, y: 2.28, z: 353.705}
+  - adjOffset: 5.1163883
+    adjEndFromPlayer: 999
+    headingChange: 2.541142
+    position: {x: 235.43, y: 2.22, z: 220.75}
+  - adjOffset: 5.3036294
+    adjEndFromPlayer: 999
+    headingChange: 5.601612
+    position: {x: 809.055, y: 2.286, z: -183.36499}
+  - adjOffset: 5.0208755
+    adjEndFromPlayer: 999
+    headingChange: 1.6183412
+    position: {x: 228.95499, y: 2.22, z: 276.5}
+  - adjOffset: -5.5853567
+    adjEndFromPlayer: 156
+    headingChange: 2.333891
+    position: {x: 532.0533, y: 2.286, z: -143.00533}
+  - adjOffset: -5.604737
+    adjEndFromPlayer: 999
+    headingChange: 5.688512
+    position: {x: 566.45624, y: 2.286, z: -159.33778}
+  - adjOffset: 3.8099365
+    adjEndFromPlayer: 999
+    headingChange: 5.6864443
+    position: {x: 529.95996, y: 2.286, z: 212.01999}
+  - adjOffset: -5.556418
+    adjEndFromPlayer: 999
+    headingChange: 1.0302162
+    position: {x: 206.29999, y: 2.28, z: 381.44}
+  - adjOffset: -5.5916724
+    adjEndFromPlayer: 999
+    headingChange: 5.414537
+    position: {x: 582.1511, y: 2.286, z: -164.00197}
+  - adjOffset: -5.359633
+    adjEndFromPlayer: 999
+    headingChange: 4.0451074
+    position: {x: 222.29498, y: 2.286, z: 224.495}
+  - adjOffset: -4.869735
+    adjEndFromPlayer: 999
+    headingChange: 9.674326
+    position: {x: 475.45898, y: 2.286, z: -103.10068}
+  - adjOffset: 5.0716214
+    adjEndFromPlayer: 999
+    headingChange: 11.808724
+    position: {x: 383.6254, y: 2.286, z: -57.901}
+  - adjOffset: 4.799988
+    adjEndFromPlayer: 999
+    headingChange: 0
+    position: {x: 529.95996, y: 2.286, z: 450.96}
+  - adjOffset: -5.0932775
+    adjEndFromPlayer: 999
+    headingChange: 10.296022
+    position: {x: 227.88667, y: 2.286, z: 184.09334}
+  - adjOffset: -5.1161304
+    adjEndFromPlayer: 999
+    headingChange: 12.23643
+    position: {x: 230.28, y: 2.286, z: 168.95999}
+  - adjOffset: 5.0062246
+    adjEndFromPlayer: 999
+    headingChange: 3.818237
+    position: {x: 633.66003, y: 2.286, z: -158.935}
+  - adjOffset: -4.5999756
+    adjEndFromPlayer: 999
+    headingChange: 0.5878411
+    position: {x: 528.7, y: 2.286, z: 72.304985}
+  - adjOffset: -4.721851
+    adjEndFromPlayer: 999
+    headingChange: 2.0967653
+    position: {x: 229.94499, y: 2.22, z: 318.505}
+  - adjOffset: -5.394297
+    adjEndFromPlayer: 999
+    headingChange: 12.764534
+    position: {x: 304.375, y: 2.286, z: -3.505005}
+  - adjOffset: -4.5370026
+    adjEndFromPlayer: 86
+    headingChange: 2.7094223
+    position: {x: 419.59497, y: 2.286, z: -94.06999}
+  - adjOffset: -4.7612553
+    adjEndFromPlayer: 999
+    headingChange: 0
+    position: {x: 525.16, y: 2.286, z: 289.25}
+  - adjOffset: 5.2126937
+    adjEndFromPlayer: 999
+    headingChange: 3.4438963
+    position: {x: 775.39996, y: 2.286, z: -180.49498}
+  - adjOffset: 4.948119
+    adjEndFromPlayer: 999
+    headingChange: 13.438497
+    position: {x: 775.58997, y: 2.286, z: -177.90999}
+  - adjOffset: -4.629944
+    adjEndFromPlayer: 999
+    headingChange: 0.38308412
+    position: {x: 525.33, y: 2.286, z: 372.38}
+  - adjOffset: 3.9653208
+    adjEndFromPlayer: 136
+    headingChange: 13.039747
+    position: {x: 665.82, y: 2.286, z: -164.86499}
+  - adjOffset: 4.99146
+    adjEndFromPlayer: 999
+    headingChange: 12.767532
+    position: {x: 421.30563, y: 2.286, z: -82.10948}
+  - adjOffset: -5.0531425
+    adjEndFromPlayer: 106
+    headingChange: 3.46978
+    position: {x: 794.77, y: 2.286, z: -176.92998}
+  - adjOffset: 4.1095233
+    adjEndFromPlayer: 999
+    headingChange: 3.46978
+    position: {x: 794.77, y: 2.286, z: -176.92998}
+  - adjOffset: 4.980928
+    adjEndFromPlayer: 999
+    headingChange: 0.81852746
+    position: {x: 227.495, y: 2.22, z: 290.565}
+  - adjOffset: -4.602925
+    adjEndFromPlayer: 999
+    headingChange: 2.2369468
+    position: {x: 775.95, y: 2.286, z: -170.39499}
+  - adjOffset: -4.677838
+    adjEndFromPlayer: 999
+    headingChange: 11.344964
+    position: {x: 437.1034, y: 2.286, z: -84.78957}
+  - adjOffset: -5.540806
+    adjEndFromPlayer: 999
+    headingChange: 2.5816433
+    position: {x: 214.06998, y: 2.28, z: 297.72498}
+  - adjOffset: 5.1822405
+    adjEndFromPlayer: 999
+    headingChange: 2.6360393
+    position: {x: 219.60498, y: 2.28, z: 298.02997}
+  - adjOffset: -4.796205
+    adjEndFromPlayer: 999
+    headingChange: 0
+    position: {x: 525.16, y: 2.286, z: 303.395}
+  - adjOffset: 3.8099365
+    adjEndFromPlayer: 999
+    headingChange: 5.6864443
+    position: {x: 529.95996, y: 2.286, z: 220.34}
+  - adjOffset: 3.8099365
+    adjEndFromPlayer: 999
+    headingChange: 5.6864443
+    position: {x: 529.95996, y: 2.286, z: 229.29501}
+  - adjOffset: 5.3550816
+    adjEndFromPlayer: 999
+    headingChange: 2.3804727
+    position: {x: 218.38998, y: 2.28, z: 311.90497}
+  - adjOffset: 5.078992
+    adjEndFromPlayer: 999
+    headingChange: 9.54697
+    position: {x: 473.34918, y: 2.286, z: -107.72072}
+  - adjOffset: -5.5172133
+    adjEndFromPlayer: 999
+    headingChange: 2.81675
+    position: {x: 212.87, y: 2.28, z: 311.68997}
+  - adjOffset: 5.058144
+    adjEndFromPlayer: 999
+    headingChange: 13.957375
+    position: {x: 371.73636, y: 2.286, z: -49.12224}
+  - adjOffset: 4.9143577
+    adjEndFromPlayer: 999
+    headingChange: 11.679211
+    position: {x: 328.49, y: 2.286, z: -21.154999}
+  - adjOffset: 4.997544
+    adjEndFromPlayer: 86
+    headingChange: 5.344855
+    position: {x: 541.5348, y: 2.286, z: -127.29177}
+  - adjOffset: 5.003062
+    adjEndFromPlayer: 999
+    headingChange: 5.8842654
+    position: {x: 542.22107, y: 2.286, z: -127.540985}
+  - adjOffset: -5.4855027
+    adjEndFromPlayer: 999
+    headingChange: 0.9915005
+    position: {x: 211.59499, y: 2.28, z: 325.615}
+  - adjOffset: 5.044518
+    adjEndFromPlayer: 999
+    headingChange: 5.531693
+    position: {x: 229.61174, y: 2.286, z: 210.01624}
+  - adjOffset: 4.909211
+    adjEndFromPlayer: 999
+    headingChange: 8.427952
+    position: {x: 231.85524, y: 2.286, z: 193.06876}
+  - adjOffset: 5.0872912
+    adjEndFromPlayer: 999
+    headingChange: 4.8283195
+    position: {x: 614.58044, y: 2.286, z: -161.5543}
+  - adjOffset: -5.04298
+    adjEndFromPlayer: 999
+    headingChange: 2.4142728
+    position: {x: 240.54498, y: 2.22, z: 221.08499}
+  - adjOffset: -4.924591
+    adjEndFromPlayer: 166
+    headingChange: 9.998828
+    position: {x: 358.54498, y: 2.286, z: -53.875008}
+  - adjOffset: -5.4929767
+    adjEndFromPlayer: 999
+    headingChange: 1.3741583
+    position: {x: 215.43498, y: 2.28, z: 283.89996}
+  - adjOffset: 4.899235
+    adjEndFromPlayer: 136
+    headingChange: 3.884285
+    position: {x: 552.69916, y: 2.286, z: -149.39127}
+  - adjOffset: -4.8672237
+    adjEndFromPlayer: 999
+    headingChange: 1.3681641
+    position: {x: 231.20999, y: 2.22, z: 304.61}
+  - adjOffset: -4.7539487
+    adjEndFromPlayer: 999
+    headingChange: 11.733711
+    position: {x: 387.92188, y: 2.286, z: -54.76951}
+  - adjOffset: 4.640596
+    adjEndFromPlayer: 999
+    headingChange: 8.01136
+    position: {x: 396.83002, y: 2.286, z: -75.170006}
+  - adjOffset: 4.922596
+    adjEndFromPlayer: 999
+    headingChange: 1.5053222
+    position: {x: 220.91998, y: 2.28, z: 284.26498}
+  - adjOffset: -4.6399536
+    adjEndFromPlayer: 999
+    headingChange: 0.38308412
+    position: {x: 525.32, y: 2.286, z: 400.06497}
+  - adjOffset: -4.833985
+    adjEndFromPlayer: 999
+    headingChange: 1.5485129
+    position: {x: 237.23, y: 2.22, z: 248.67499}
+  - adjOffset: 5.05178
+    adjEndFromPlayer: 999
+    headingChange: 1.8411127
+    position: {x: 230.56999, y: 2.22, z: 262.36}
+  - adjOffset: -4.5397487
+    adjEndFromPlayer: 999
+    headingChange: 0.770502
+    position: {x: 528.74, y: 2.286, z: 64.23499}
+  - adjOffset: 3.8099365
+    adjEndFromPlayer: 999
+    headingChange: 0
+    position: {x: 529.95996, y: 2.286, z: 348.60498}
+  - adjOffset: 4.718777
+    adjEndFromPlayer: 96.00001
+    headingChange: 10.056725
+    position: {x: 667.29004, y: 2.286, z: -179.155}
+  - adjOffset: 4.9513535
+    adjEndFromPlayer: 999
+    headingChange: 1.1575825
+    position: {x: 226.26, y: 2.22, z: 304.385}
+  - adjOffset: -4.6404753
+    adjEndFromPlayer: 116
+    headingChange: 6.7182846
+    position: {x: 394.315, y: 2.286, z: -79.07}
+  - adjOffset: 4.756828
+    adjEndFromPlayer: 999
+    headingChange: 12.08276
+    position: {x: 526.7023, y: 2.286, z: -123.03832}
+  - adjOffset: 4.9508376
+    adjEndFromPlayer: 999
+    headingChange: 13.587819
+    position: {x: 509.8983, y: 2.286, z: -119.01112}
+  - adjOffset: -4.799988
+    adjEndFromPlayer: 999
+    headingChange: 0.2594432
+    position: {x: 525.16, y: 2.286, z: 450.84998}
+  - adjOffset: 4.6989326
+    adjEndFromPlayer: 999
+    headingChange: 5.6864443
+    position: {x: 530.77747, y: 2.286, z: 171.73001}
+  - adjOffset: 4.7597837
+    adjEndFromPlayer: 999
+    headingChange: 0
+    position: {x: 529.95996, y: 2.286, z: 429.96002}
+  - adjOffset: 3.9825308
+    adjEndFromPlayer: 999
+    headingChange: 0
+    position: {x: 529.95996, y: 2.286, z: 412.24}
+  - adjOffset: -4.567338
+    adjEndFromPlayer: 999
+    headingChange: 2.7749517
+    position: {x: 603.43005, y: 2.286, z: -140.885}
+  - adjOffset: -4.552986
+    adjEndFromPlayer: 999
+    headingChange: 3.6812654
+    position: {x: 619.53503, y: 2.286, z: -145.255}
+  - adjOffset: 5.0270844
+    adjEndFromPlayer: 999
+    headingChange: 11.241008
+    position: {x: 434.39612, y: 2.286, z: -89.05319}
+  - adjOffset: 4.891519
+    adjEndFromPlayer: 176
+    headingChange: 11.079706
+    position: {x: 350.06, y: 2.286, z: -40.93}
+  - adjOffset: -5.32133
+    adjEndFromPlayer: 999
+    headingChange: 11.11466
+    position: {x: 314.435, y: 2.286, z: -14.405006}
+  - adjOffset: -4.7670236
+    adjEndFromPlayer: 136
+    headingChange: 8.536515
+    position: {x: 382.125, y: 2.286, z: -70.945}
+  - adjOffset: -4.703485
+    adjEndFromPlayer: 999
+    headingChange: 6.291238
+    position: {x: 526.0475, y: 2.286, z: 171.7625}
+  - adjOffset: -3.7396774
+    adjEndFromPlayer: 999
+    headingChange: 6.291238
+    position: {x: 527.8225, y: 2.286, z: 155.3875}
+  - adjOffset: -4.9844265
+    adjEndFromPlayer: 999
+    headingChange: 8.068109
+    position: {x: 483.37943, y: 2.286, z: -106.61595}
+  - adjOffset: 4.900828
+    adjEndFromPlayer: 999
+    headingChange: 6.3317156
+    position: {x: 671.6, y: 2.286, z: -167.02}
+  - adjOffset: -4.4135284
+    adjEndFromPlayer: 999
+    headingChange: 3.063563
+    position: {x: 794.82, y: 2.286, z: -172.10498}
+  - adjOffset: 4.3841333
+    adjEndFromPlayer: 999
+    headingChange: 3.1572793
+    position: {x: 245.28, y: 2.286, z: 154.29999}
+  - adjOffset: 4.496737
+    adjEndFromPlayer: 999
+    headingChange: 3.213088
+    position: {x: 242.47998, y: 2.286, z: 170.7}
+  - adjOffset: 4.9043736
+    adjEndFromPlayer: 999
+    headingChange: 2.626294
+    position: {x: 225.75, y: 2.283, z: 240.685}
+  - adjOffset: -4.510857
+    adjEndFromPlayer: 999
+    headingChange: 12.67739
+    position: {x: 411.53848, y: 2.286, z: -70.68419}
+  - adjOffset: 5.0558777
+    adjEndFromPlayer: 999
+    headingChange: 1.688064
+    position: {x: 232.16998, y: 2.22, z: 248.43}
+  - adjOffset: 4.9072266
+    adjEndFromPlayer: 999
+    headingChange: 10.230258
+    position: {x: 257.42734, y: 2.286, z: 103.55244}
+  - adjOffset: 3.8099365
+    adjEndFromPlayer: 999
+    headingChange: 0.14127421
+    position: {x: 529.95996, y: 2.286, z: 316.94998}
+  - adjOffset: 4.978038
+    adjEndFromPlayer: 999
+    headingChange: 1.613497
+    position: {x: 601.04004, y: 2.286, z: -150.38501}
+  - adjOffset: 4.989779
+    adjEndFromPlayer: 999
+    headingChange: 5.0318193
+    position: {x: 227.635, y: 2.286, z: 224.995}
+  - adjOffset: -4.915358
+    adjEndFromPlayer: 999
+    headingChange: 2.0612752
+    position: {x: 238.84999, y: 2.22, z: 234.76}
+  - adjOffset: -4.4991956
+    adjEndFromPlayer: 999
+    headingChange: 0.69238615
+    position: {x: 528.745, y: 2.286, z: 101.1175}
+  - adjOffset: -4.5700827
+    adjEndFromPlayer: 999
+    headingChange: 0.69238615
+    position: {x: 528.715, y: 2.286, z: 84.69249}
+  - adjOffset: 5.479009
+    adjEndFromPlayer: 999
+    headingChange: 4.4528065
+    position: {x: 569.04584, y: 2.286, z: -148.47542}
+  - adjOffset: 4.4800415
+    adjEndFromPlayer: 999
+    headingChange: 0.40782428
+    position: {x: 533.26, y: 2.286, z: 55.475002}
+  - adjOffset: -4.4800415
+    adjEndFromPlayer: 999
+    headingChange: 0.18238425
+    position: {x: 528.77997, y: 2.286, z: 49.640003}
+  - adjOffset: -5.5698495
+    adjEndFromPlayer: 999
+    headingChange: 4.6617804
+    position: {x: 597.74365, y: 2.286, z: -168.47984}
+  - adjOffset: 4.4800415
+    adjEndFromPlayer: 999
+    headingChange: 0.40782428
+    position: {x: 533.26, y: 2.286, z: 44.775}
+  - adjOffset: 5.000509
+    adjEndFromPlayer: 999
+    headingChange: 12.340887
+    position: {x: 234.46024, y: 2.286, z: 175.25626}
+  - adjOffset: 4.959383
+    adjEndFromPlayer: 999
+    headingChange: 2.6752515
+    position: {x: 223.96999, y: 2.28, z: 256.61}
+  - adjOffset: -5.4466815
+    adjEndFromPlayer: 999
+    headingChange: 1.1995889
+    position: {x: 208.88998, y: 2.28, z: 353.31497}
+  - adjOffset: 3.8099365
+    adjEndFromPlayer: 999
+    headingChange: 5.6864443
+    position: {x: 529.95996, y: 2.286, z: 248.97}
+  - adjOffset: 3.8099365
+    adjEndFromPlayer: 999
+    headingChange: 5.6864443
+    position: {x: 529.95996, y: 2.286, z: 254.16501}
+  - adjOffset: -4.804742
+    adjEndFromPlayer: 156
+    headingChange: 2.5286329
+    position: {x: 530.4462, y: 2.286, z: -148.27325}
+  - adjOffset: -4.8786774
+    adjEndFromPlayer: 146
+    headingChange: 4.1772485
+    position: {x: 650.41003, y: 2.286, z: -157.645}
+  - adjOffset: 4.923315
+    adjEndFromPlayer: 999
+    headingChange: 4.1772485
+    position: {x: 650.41003, y: 2.286, z: -157.645}
+  - adjOffset: -5.3984027
+    adjEndFromPlayer: 999
+    headingChange: 2.4385533
+    position: {x: 220.37999, y: 2.283, z: 240.12999}
+  - adjOffset: 5.053229
+    adjEndFromPlayer: 999
+    headingChange: 5.8539066
+    position: {x: 663.045, y: 2.286, z: -165.44}
+  - adjOffset: -4.8499756
+    adjEndFromPlayer: 76
+    headingChange: 2.8317902
+    position: {x: 843.67004, y: 2.286, z: -70.14501}
+  - adjOffset: -3.879817
+    adjEndFromPlayer: 999
+    headingChange: 2.9754565
+    position: {x: 818.77, y: 2.286, z: -173.90999}
+  - adjOffset: 4.844966
+    adjEndFromPlayer: 999
+    headingChange: 14.478764
+    position: {x: 282.875, y: 2.286, z: 34.399994}
+  - adjOffset: 4.936663
+    adjEndFromPlayer: 999
+    headingChange: 5.8825994
+    position: {x: 726.41, y: 2.286, z: -169.94}
+  - adjOffset: 5.0951934
+    adjEndFromPlayer: 999
+    headingChange: 14.673167
+    position: {x: 299.45, y: 2.286, z: 10.809998}
+  - adjOffset: 4.7933974
+    adjEndFromPlayer: 999
+    headingChange: 2.6358163
+    position: {x: 222.42499, y: 2.28, z: 270.44998}
+  - adjOffset: 4.5099688
+    adjEndFromPlayer: 999
+    headingChange: 0.3936644
+    position: {x: 533.255, y: 2.286, z: 101.127495}
+  - adjOffset: 4.569826
+    adjEndFromPlayer: 999
+    headingChange: 0.3936644
+    position: {x: 533.285, y: 2.286, z: 84.7625}
+  - adjOffset: -3.8874786
+    adjEndFromPlayer: 86
+    headingChange: 4.6833706
+    position: {x: 618.745, y: 2.286, z: -150.03}
+  - adjOffset: 4.8186564
+    adjEndFromPlayer: 999
+    headingChange: 4.6833706
+    position: {x: 618.745, y: 2.286, z: -150.03}
+  - adjOffset: 3.8099365
+    adjEndFromPlayer: 999
+    headingChange: 5.6864443
+    position: {x: 529.95996, y: 2.286, z: 192.37}
+  - adjOffset: -4.5506334
+    adjEndFromPlayer: 96
+    headingChange: 4.6488624
+    position: {x: 406.83002, y: 2.286, z: -86.795}
+  - adjOffset: -3.7214627
+    adjEndFromPlayer: 999
+    headingChange: 11.723061
+    position: {x: 424.20312, y: 2.286, z: -78.00536}
+  - adjOffset: 5.002312
+    adjEndFromPlayer: 999
+    headingChange: 0.86411387
+    position: {x: 212.98499, y: 2.28, z: 367.66498}
+  - adjOffset: 4.258138
+    adjEndFromPlayer: 999
+    headingChange: 4.409666
+    position: {x: 554.3273, y: 2.286, z: -144.09726}
+  - adjOffset: 4.9847674
+    adjEndFromPlayer: 999
+    headingChange: 2.7403119
+    position: {x: 617.205, y: 2.286, z: -154.78}
+  - adjOffset: 4.8850093
+    adjEndFromPlayer: 999
+    headingChange: 4.931375
+    position: {x: 248.34999, y: 2.286, z: 138.415}
+  - adjOffset: 4.8923225
+    adjEndFromPlayer: 999
+    headingChange: 11.340485
+    position: {x: 262.34293, y: 2.286, z: 89.52192}
+  - adjOffset: -4.8300643
+    adjEndFromPlayer: 999
+    headingChange: 1.2665592
+    position: {x: 245.72499, y: 2.253, z: 182.51498}
+  - adjOffset: 3.8099365
+    adjEndFromPlayer: 999
+    headingChange: 0
+    position: {x: 529.95996, y: 2.286, z: 372.455}
+  - adjOffset: 4.6935797
+    adjEndFromPlayer: 999
+    headingChange: 7.928157
+    position: {x: 211.10999, y: 2.286, z: 414.18997}
+  - adjOffset: -4.6349487
+    adjEndFromPlayer: 999
+    headingChange: 0.4265846
+    position: {x: 525.325, y: 2.286, z: 390.01498}
+  - adjOffset: 4.9186873
+    adjEndFromPlayer: 999
+    headingChange: 7.2275133
+    position: {x: 253.45543, y: 2.286, z: 116.91504}
+  - adjOffset: 5.006723
+    adjEndFromPlayer: 999
+    headingChange: 3.2457027
+    position: {x: 222.15498, y: 2.22, z: 346.54}
+  - adjOffset: 5.3071704
+    adjEndFromPlayer: 999
+    headingChange: 1.6607147
+    position: {x: 211.86497, y: 2.28, z: 381.52}
+  - adjOffset: -4.6609926
+    adjEndFromPlayer: 999
+    headingChange: 2.1593049
+    position: {x: 228.54999, y: 2.22, z: 332.75}
+  - adjOffset: -4.799988
+    adjEndFromPlayer: 999
+    headingChange: 0.2229358
+    position: {x: 525.16, y: 2.286, z: 264.8}
+  - adjOffset: -4.551052
+    adjEndFromPlayer: 999
+    headingChange: 10.320336
+    position: {x: 399.3108, y: 2.286, z: -62.865128}
+  - adjOffset: 5.0859365
+    adjEndFromPlayer: 999
+    headingChange: 1.7439455
+    position: {x: 233.75, y: 2.22, z: 234.57}
+  - adjOffset: 4.5028954
+    adjEndFromPlayer: 999
+    headingChange: 9.758686
+    position: {x: 384.84497, y: 2.286, z: -67.03001}
+  - adjOffset: -4.2894826
+    adjEndFromPlayer: 156
+    headingChange: 5.6993203
+    position: {x: 663.855, y: 2.286, z: -160.45}
+  - adjOffset: 4.919275
+    adjEndFromPlayer: 999
+    headingChange: 5.6993203
+    position: {x: 663.855, y: 2.286, z: -160.45}
+  - adjOffset: -4.799988
+    adjEndFromPlayer: 999
+    headingChange: 0
+    position: {x: 525.16, y: 2.286, z: 272.44498}
+  - adjOffset: -5.541845
+    adjEndFromPlayer: 146
+    headingChange: 4.242933
+    position: {x: 540.9415, y: 2.286, z: -145.79628}
+  - adjOffset: 4.7525115
+    adjEndFromPlayer: 999
+    headingChange: 4.242933
+    position: {x: 540.9415, y: 2.286, z: -145.79628}
+  - adjOffset: -5.218319
+    adjEndFromPlayer: 999
+    headingChange: 3.6366348
+    position: {x: 809.435, y: 2.286, z: -178.07498}
+  - adjOffset: 4.828234
+    adjEndFromPlayer: 999
+    headingChange: 3.6366348
+    position: {x: 809.435, y: 2.286, z: -178.07498}
+  - adjOffset: 5.3522806
+    adjEndFromPlayer: 999
+    headingChange: 3.0992675
+    position: {x: 794.33997, y: 2.286, z: -182.26498}
+  - adjOffset: -4.6461267
+    adjEndFromPlayer: 125.99999
+    headingChange: 3.0524883
+    position: {x: 634.82, y: 2.286, z: -154.065}
+  - adjOffset: 4.852288
+    adjEndFromPlayer: 999
+    headingChange: 3.0524883
+    position: {x: 634.82, y: 2.286, z: -154.065}
+  - adjOffset: -4.4799805
+    adjEndFromPlayer: 999
+    headingChange: 0.5878411
+    position: {x: 528.76, y: 2.286, z: 114.175}
+  - adjOffset: -5.4908433
+    adjEndFromPlayer: 999
+    headingChange: 1.097714
+    position: {x: 210.22998, y: 2.28, z: 339.45996}
+  - adjOffset: -4.7965846
+    adjEndFromPlayer: 999
+    headingChange: 0.2229358
+    position: {x: 525.16, y: 2.286, z: 248.905}
+  - adjOffset: -4.1814837
+    adjEndFromPlayer: 999
+    headingChange: 0.5878411
+    position: {x: 528.71, y: 2.286, z: 144.565}
+  - adjOffset: -4.944116
+    adjEndFromPlayer: 196
+    headingChange: 11.626984
+    position: {x: 335.52, y: 2.286, z: -34.795}
+  - adjOffset: 5.5795083
+    adjEndFromPlayer: 999
+    headingChange: 2.9438403
+    position: {x: 534.1747, y: 2.286, z: -137.81961}
+  - adjOffset: -5.117095
+    adjEndFromPlayer: 999
+    headingChange: 7.302185
+    position: {x: 485.80585, y: 2.286, z: -101.952805}
+  - adjOffset: 4.751976
+    adjEndFromPlayer: 999
+    headingChange: 12.473165
+    position: {x: 338.995, y: 2.286, z: -31.275002}
+  - adjOffset: -5.644028
+    adjEndFromPlayer: 999
+    headingChange: 2.9713745
+    position: {x: 205.37, y: 2.283, z: 395.87}
+  - adjOffset: -5.4301333
+    adjEndFromPlayer: 999
+    headingChange: 2.3127456
+    position: {x: 216.98499, y: 2.28, z: 270.235}
+  - adjOffset: 4.5994034
+    adjEndFromPlayer: 999
+    headingChange: 0.32264063
+    position: {x: 533.315, y: 2.286, z: 85.009995}
+  - adjOffset: -5.520667
+    adjEndFromPlayer: 999
+    headingChange: 3.395345
+    position: {x: 613.22144, y: 2.286, z: -172.64076}
+  - adjOffset: -4.499967
+    adjEndFromPlayer: 999
+    headingChange: 0.46267125
+    position: {x: 528.735, y: 2.286, z: 130.47499}
+  - adjOffset: -5.327119
+    adjEndFromPlayer: 999
+    headingChange: 8.338071
+    position: {x: 224.93, y: 2.286, z: 204.79001}
+  - adjOffset: -4.3828487
+    adjEndFromPlayer: 999
+    headingChange: 4.5599923
+    position: {x: 651.875, y: 2.286, z: -152.92499}
+  - adjOffset: 3.7910209
+    adjEndFromPlayer: 999
+    headingChange: 0
+    position: {x: 529.95996, y: 2.286, z: 400.925}
+  - adjOffset: -4.747539
+    adjEndFromPlayer: 999
+    headingChange: 1.7201047
+    position: {x: 233.97499, y: 2.22, z: 276.795}
+  - adjOffset: 4.5944324
+    adjEndFromPlayer: 999
+    headingChange: 8.2288885
+    position: {x: 409.185, y: 2.286, z: -82.85}
+  - adjOffset: -4.9219513
+    adjEndFromPlayer: 999
+    headingChange: 1.24364
+    position: {x: 244.31, y: 2.22, z: 193.075}
+  - adjOffset: -4.9307585
+    adjEndFromPlayer: 999
+    headingChange: 14.426999
+    position: {x: 376.69144, y: 2.286, z: -46.488556}
+  - adjOffset: -4.8927546
+    adjEndFromPlayer: 196
+    headingChange: 6.3269453
+    position: {x: 707.63, y: 2.286, z: -167.30249}
+  - adjOffset: 4.8106337
+    adjEndFromPlayer: 999
+    headingChange: 6.3269453
+    position: {x: 707.63, y: 2.286, z: -167.30249}
+  - adjOffset: 5.0087457
+    adjEndFromPlayer: 999
+    headingChange: 7.5479
+    position: {x: 686.18994, y: 2.286, z: -164.1875}
+  - adjOffset: 5.2729936
+    adjEndFromPlayer: 999
+    headingChange: 0.75562876
+    position: {x: 215.70999, y: 2.28, z: 339.84}
+  - adjOffset: 4.8788567
+    adjEndFromPlayer: 999
+    headingChange: 14.847198
+    position: {x: 268.2006, y: 2.286, z: 75.67873}
+  - adjOffset: 4.9350157
+    adjEndFromPlayer: 999
+    headingChange: 6.1412697
+    position: {x: 672.345, y: 2.286, z: -162.055}
+  - adjOffset: -4.7243156
+    adjEndFromPlayer: 999
+    headingChange: 1.9028977
+    position: {x: 235.625, y: 2.22, z: 262.63}
+  - adjOffset: -4.799988
+    adjEndFromPlayer: 999
+    headingChange: 0
+    position: {x: 525.16, y: 2.286, z: 279.18}
+  - adjOffset: -4.27867
+    adjEndFromPlayer: 999
+    headingChange: 5.7223487
+    position: {x: 664.865, y: 2.286, z: -155.635}
+  - adjOffset: 4.89244
+    adjEndFromPlayer: 999
+    headingChange: 3.1374996
+    position: {x: 211.01999, y: 2.283, z: 395.87}
+  - adjOffset: 5.1829376
+    adjEndFromPlayer: 999
+    headingChange: 5.875164
+    position: {x: 599.5491, y: 2.286, z: -157.43509}
+  - adjOffset: 4.547901
+    adjEndFromPlayer: 999
+    headingChange: 6.337906
+    position: {x: 481.29987, y: 2.286, z: -111.40132}
+  - adjOffset: -4.3250375
+    adjEndFromPlayer: 999
+    headingChange: 7.4832783
+    position: {x: 673.065, y: 2.286, z: -157.125}
+  - adjOffset: 4.7271543
+    adjEndFromPlayer: 176
+    headingChange: 5.5157986
+    position: {x: 520.1297, y: 2.286, z: -138.71484}
+  - adjOffset: -5.840814
+    adjEndFromPlayer: 999
+    headingChange: 9.317471
+    position: {x: 488.971, y: 2.286, z: -128.77682}
+  - adjOffset: -4.989817
+    adjEndFromPlayer: 999
+    headingChange: 2.2206132
+    position: {x: 242.35498, y: 2.22, z: 207.455}
+  - adjOffset: 4.9761186
+    adjEndFromPlayer: 999
+    headingChange: 2.912957
+    position: {x: 223.56999, y: 2.22, z: 332.545}
+  - adjOffset: -4.714966
+    adjEndFromPlayer: 999
+    headingChange: 0.38308412
+    position: {x: 525.245, y: 2.286, z: 348.66}
+  - adjOffset: 5.064561
+    adjEndFromPlayer: 999
+    headingChange: 12.294976
+    position: {x: 308.705, y: 2.286, z: -0.26000214}
+  - adjOffset: 5.1520042
+    adjEndFromPlayer: 999
+    headingChange: 11.143323
+    position: {x: 318.46497, y: 2.286, z: -10.919998}
+  - adjOffset: 5.1435494
+    adjEndFromPlayer: 999
+    headingChange: 4.9447455
+    position: {x: 832.935, y: 2.286, z: -184.45999}
+  - adjOffset: 4.9296455
+    adjEndFromPlayer: 999
+    headingChange: 5.743921
+    position: {x: 250.9779, y: 2.286, z: 126.69221}
+  - adjOffset: -4.7674417
+    adjEndFromPlayer: 999
+    headingChange: 0.81228817
+    position: {x: 232.47499, y: 2.22, z: 290.82}
+  - adjOffset: 4.6465898
+    adjEndFromPlayer: 146
+    headingChange: 10.7034235
+    position: {x: 372.96, y: 2.286, z: -58.465004}
+  - adjOffset: 5.099174
+    adjEndFromPlayer: 999
+    headingChange: 4.2524304
+    position: {x: 818.39, y: 2.286, z: -183.83499}
+  - adjOffset: 5.004887
+    adjEndFromPlayer: 999
+    headingChange: 8.749496
+    position: {x: 553.18414, y: 2.286, z: -131.1407}
+  - adjOffset: 4.9600377
+    adjEndFromPlayer: 999
+    headingChange: 3.0070658
+    position: {x: 224.98, y: 2.22, z: 318.315}
+  - adjOffset: -5.0131335
+    adjEndFromPlayer: 999
+    headingChange: 4.3491106
+    position: {x: 531.75824, y: 2.286, z: -118.5225}
+  - adjOffset: -5.096885
+    adjEndFromPlayer: 999
+    headingChange: 4.3491106
+    position: {x: 514.62585, y: 2.286, z: -112.44722}
+  - adjOffset: -4.1492863
+    adjEndFromPlayer: 999
+    headingChange: 12.028426
+    position: {x: 531.4226, y: 2.286, z: -119.320755}
+  - adjOffset: 4.8499756
+    adjEndFromPlayer: 86
+    headingChange: 12.730919
+    position: {x: 848.52, y: 2.286, z: -61.620003}
+  - adjOffset: -4.8598228
+    adjEndFromPlayer: 999
+    headingChange: 11.771118
+    position: {x: 463.33032, y: 2.286, z: -97.53528}
+  - adjOffset: 4.979383
+    adjEndFromPlayer: 999
+    headingChange: 11.385758
+    position: {x: 447.63586, y: 2.286, z: -95.62015}
+  - adjOffset: 4.224717
+    adjEndFromPlayer: 999
+    headingChange: 3.7938504
+    position: {x: 542.70917, y: 2.286, z: -140.54314}
+  - adjOffset: -5.408894
+    adjEndFromPlayer: 999
+    headingChange: 2.744951
+    position: {x: 218.56999, y: 2.28, z: 256.22998}
+  - adjOffset: -4.613895
+    adjEndFromPlayer: 999
+    headingChange: 5.339316
+    position: {x: 636.01, y: 2.286, z: -149.36}
+  - adjOffset: -5.445773
+    adjEndFromPlayer: 999
+    headingChange: 0.7885751
+    position: {x: 207.54999, y: 2.28, z: 367.3}
+  actorSizes:
+  - name: "\u5207\u8ECA"
+    halfLength: 2.8
+    halfWidth: 1.4
+  playerSize:
+    name: vehicle   ONLY LOD0
+    halfLength: 3.4893804
+    halfWidth: 1.4279561
+  sourceScene: cc
+  exportedAt: 2026-10-03 16:42
+  summary: "\u6AA2\u67E5 2915 \u500B\u4F4D\u7F6E\uFF0C361 \u500B\u53EF\u4EE5\u89F8\u767C\u9B3C\u5207\uFF0812%\uFF09\uFF0C\u5171
+    388 \u7B46\u6A23\u672C\r\n\u9694\u58C1\u8ECA\u9053\uFF1A\u5DE6\u5074 186 \u7B46\u3001\u53F3\u5074
+    202 \u7B46\uFF1B\u8ECA\u9053\u5BEC 3.7\uFF5E6.0m\uFF08\u5E73\u5747 4.8m\uFF09\r\n\u9694\u58C1\u8ECA\u9053\u5728\u524D\u65B9\u6703\u7D50\u675F\u7684\uFF1A69
+    \u7B46\uFF0818%\uFF09\r\n\u4E0D\u80FD\u89F8\u767C\u7684\u539F\u56E0\uFF1A\u524D\u65B9\u8DEF\u7DB2\u592A\u77ED
+    1010\u3001\u6C92\u6709\u9694\u58C1\u540C\u5411\u8ECA\u9053 728\u3001\u524D\u65B9\u6709\u8DEF\u53E3
+    396\u3001\u524D\u65B9\u8F49\u89D2\u592A\u5927 296\u3001\u9694\u58C1\u8ECA\u9053\u4E2D\u65B7
+    112\u3001\u5F8C\u65B9\u8DEF\u7DB2\u592A\u77ED 12\r\n\u9B3C\u5207\u8ECA\u5C3A\u5BF8\uFF1A\u5207\u8ECA
+    5.6\xD72.8m\r\n\u73A9\u5BB6\u8ECA\u5C3A\u5BF8\uFF1Avehicle   ONLY LOD0 7.0\xD72.9m"

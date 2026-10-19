@@ -1,0 +1,14 @@
+﻿鬼切強化學習訓練說明
+====================
+
+⚠ GhostCutIn.yaml 只能放英數字：Windows 上的 Python 預設用 cp950（Big5）讀檔，
+  設定檔裡有中文註解會出現「'cp950' codec can't decode」錯誤，所以說明都寫在這個檔案。
+
+鬼切強化學習（PPO）訓練設定 —— 對應 com.unity.ml-agents 2.0.2 / Python mlagents 0.26.0
+用法（在專案根目錄 Agent\ 開 Anaconda Prompt）：
+  conda activate mlagents
+  mlagents-learn MLTraining\GhostCutIn.yaml --run-id=GhostCutIn_v1 --time-scale=20
+看訓練曲線：
+  tensorboard --logdir results
+
+若要在 yaml 裡寫中文：先在 Anaconda Prompt 執行  set PYTHONUTF8=1  再執行 mlagents-learn。

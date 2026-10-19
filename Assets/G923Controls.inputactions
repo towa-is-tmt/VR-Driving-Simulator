@@ -1,0 +1,375 @@
+{
+    "version": 1,
+    "name": "G923Controls",
+    "maps": [
+        {
+            "name": "car",
+            "id": "9ebc4f01-0efb-4bf7-b754-40e2ab3b39b6",
+            "actions": [
+                {
+                    "name": "steer",
+                    "type": "Value",
+                    "id": "b8a3b688-eeb6-4c06-8806-e7331c92673f",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "moveon",
+                    "type": "Value",
+                    "id": "fbdeb18a-e8f8-4300-9573-e242b3136704",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "stop",
+                    "type": "Value",
+                    "id": "c0abb2ac-585b-4dc7-8804-4c6b37d3cb4e",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "dd",
+                    "type": "Button",
+                    "id": "c97de8e0-496d-4551-b391-6dc86d8c0805",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "rr",
+                    "type": "Button",
+                    "id": "5257da40-5f19-4ba1-8b29-b0814a9240d0",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "pp",
+                    "type": "Button",
+                    "id": "d19b89a6-d9ca-4308-982a-31dbf1dd1352",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "confirm",
+                    "type": "Button",
+                    "id": "31020886-5d21-40ac-a171-45650841b94d",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "esc",
+                    "type": "Button",
+                    "id": "743c7faf-0b6d-4938-8028-4b0ad0ccd073",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "butup",
+                    "type": "Button",
+                    "id": "c647c3d5-2bee-414e-8ca2-6aba4ceb581a",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "butdown",
+                    "type": "Button",
+                    "id": "15315d3c-a2e5-4826-b305-126ab8404864",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "butleft",
+                    "type": "Button",
+                    "id": "29104faf-11f1-4575-b5a8-aa54e101b7a4",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "butright",
+                    "type": "Button",
+                    "id": "ab406a4a-e090-4d64-85ab-a42777b6f56b",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "right",
+                    "type": "Button",
+                    "id": "d5591d85-fc63-4ace-b56b-b4664bc58ff7",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "left",
+                    "type": "Button",
+                    "id": "4b0e0450-7013-41f6-9b95-f0fa795263fa",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "double",
+                    "type": "Button",
+                    "id": "08c93b37-1ea1-4c41-a48b-0eb3e1186afd",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "speaker",
+                    "type": "Button",
+                    "id": "0571e8cc-911e-403b-ac55-81dd874b815e",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "speakers",
+                    "type": "Button",
+                    "id": "856c1896-12fc-40df-a3b7-3265b3a83637",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "setting",
+                    "type": "Button",
+                    "id": "69507354-694d-4620-bf38-dc7befd427cd",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "342abf30-d35e-4f39-af7e-f855b760a341",
+                    "path": "<HID::Logitech G923 Racing Wheel for PlayStation and PC>/stick/x",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "steer",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "467f18ea-1d28-4144-ba45-637ffe165a42",
+                    "path": "<HID::Logitech G923 Racing Wheel for PlayStation and PC>/z",
+                    "interactions": "",
+                    "processors": "Invert",
+                    "groups": "",
+                    "action": "moveon",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c998b380-857f-40ac-8061-7243eaf64d70",
+                    "path": "<HID::Logitech G923 Racing Wheel for PlayStation and PC>/rz",
+                    "interactions": "",
+                    "processors": "Invert",
+                    "groups": "",
+                    "action": "stop",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "29da244b-43a4-4a00-890a-fc7a3d1dc6a3",
+                    "path": "<HID::Logitech G923 Racing Wheel for PlayStation and PC>/button15",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "dd",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "4593acf2-8e2e-458c-a8a9-fabccc1e1701",
+                    "path": "<HID::Logitech G923 Racing Wheel for PlayStation and PC>/button16",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "rr",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "aaa8e189-5452-40b7-9c68-e7d4b88514d9",
+                    "path": "<HID::Logitech G923 Racing Wheel for PlayStation and PC>/button17",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "pp",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "3f8ed088-6049-4c73-a057-d924ab518a10",
+                    "path": "<HID::Logitech G923 Racing Wheel for PlayStation and PC>/button3",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "confirm",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2ef52afc-23db-4d2d-9d65-3d2b4d174459",
+                    "path": "<HID::Logitech G923 Racing Wheel for PlayStation and PC>/button25",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "esc",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "dd8e8ff1-5da2-4cbd-b89d-0321a92c2c18",
+                    "path": "<HID::Logitech G923 Racing Wheel for PlayStation and PC>/hat/up",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "butup",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f33ee3af-432e-4dfa-ab1f-9e43316584db",
+                    "path": "<HID::Logitech G923 Racing Wheel for PlayStation and PC>/hat/down",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "butdown",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e7d332a4-9dbb-4b13-8d3a-3e03da7c404c",
+                    "path": "<HID::Logitech G923 Racing Wheel for PlayStation and PC>/hat/left",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "butleft",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "da8a4226-acc7-4de0-b117-a859e83f50c2",
+                    "path": "<HID::Logitech G923 Racing Wheel for PlayStation and PC>/hat/right",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "butright",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "86c2d23f-7b8c-4532-a03c-3ca522959c22",
+                    "path": "<HID::Logitech G923 Racing Wheel for PlayStation and PC>/button5",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "right",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "0851cb8c-d691-4b26-9f29-15fb79a5315b",
+                    "path": "<HID::Logitech G923 Racing Wheel for PlayStation and PC>/button6",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "left",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "fe06c2d2-dd15-4a07-88f9-f10197196523",
+                    "path": "<HID::Logitech G923 Racing Wheel for PlayStation and PC>/button24",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "double",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "9c52b7a7-e188-4617-91e2-75db194b2a63",
+                    "path": "<HID::Logitech G923 Racing Wheel for PlayStation and PC>/button20",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "speaker",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "aced1636-85e5-407b-a586-3329b12c73d2",
+                    "path": "<HID::Logitech G923 Racing Wheel for PlayStation and PC>/button21",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "speakers",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "8b277f5a-7b9e-432f-8a4b-abed90a290eb",
+                    "path": "<HID::Logitech G923 Racing Wheel for PlayStation and PC>/button10",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "setting",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

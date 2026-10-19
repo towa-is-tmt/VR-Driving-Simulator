@@ -1,0 +1,46 @@
+# ================================================================
+# Git LFS：大型二進位檔交給 LFS 管理
+# （GitHub 單檔上限 100MB，超過一定要走 LFS）
+# ================================================================
+
+# 文字檔統一換行
+* text=auto
+
+# Unity YAML（場景、預製物、材質）交給 Git 自動判斷，不強制轉換換行
+# （LightingData.asset 等檔案即使在 Force Text 模式仍是二進位，強制轉換會損壞）
+*.cs     text diff=csharp
+
+# 超過 50MB 的 Unity YAML 檔個別走 LFS
+Assets/Scenes/cc.unity            filter=lfs diff=lfs merge=lfs -text
+Assets/車流資料/行人資料.prefab   filter=lfs diff=lfs merge=lfs -text
+Assets/車流資料/車流同捆包.prefab filter=lfs diff=lfs merge=lfs -text
+
+# 3D 模型
+*.fbx   filter=lfs diff=lfs merge=lfs -text
+*.FBX   filter=lfs diff=lfs merge=lfs -text
+*.obj   filter=lfs diff=lfs merge=lfs -text
+*.blend filter=lfs diff=lfs merge=lfs -text
+
+# 圖片與貼圖
+*.png  filter=lfs diff=lfs merge=lfs -text
+*.PNG  filter=lfs diff=lfs merge=lfs -text
+*.jpg  filter=lfs diff=lfs merge=lfs -text
+*.jpeg filter=lfs diff=lfs merge=lfs -text
+*.tga  filter=lfs diff=lfs merge=lfs -text
+*.psd  filter=lfs diff=lfs merge=lfs -text
+*.exr  filter=lfs diff=lfs merge=lfs -text
+*.hdr  filter=lfs diff=lfs merge=lfs -text
+*.tif  filter=lfs diff=lfs merge=lfs -text
+
+# 影音
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.mov filter=lfs diff=lfs merge=lfs -text
+*.wav filter=lfs diff=lfs merge=lfs -text
+*.mp3 filter=lfs diff=lfs merge=lfs -text
+*.ogg filter=lfs diff=lfs merge=lfs -text
+
+# 字型、原生外掛、模型權重
+*.ttf  filter=lfs diff=lfs merge=lfs -text
+*.otf  filter=lfs diff=lfs merge=lfs -text
+*.dll  filter=lfs diff=lfs merge=lfs -text
+*.onnx filter=lfs diff=lfs merge=lfs -text

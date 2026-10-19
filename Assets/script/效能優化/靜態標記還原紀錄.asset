@@ -1,0 +1,1059 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfc80ebad8c919b4391764b64d44ad6c, type: 3}
+  m_Name: "\u975C\u614B\u6A19\u8A18\u9084\u539F\u7D00\u9304"
+  m_EditorClassIdentifier: 
+  sceneName: cc
+  time: 2026-10-01 11:50:15
+  entries:
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2099756709-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u5EE2\u68C4\u91AB\u9662(\u5916\u570D\u570D\u6B04)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-257954319-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u5EE2\u68C4\u91AB\u9662(\u65BD\u5DE5\u5730)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-805043365-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u5927\u516C\u5712"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-1944403932-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u5927\u516C\u5712/\u5927\u516C\u5712.001"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-1232566350-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u5927\u516C\u5712/\u7C43\u7403\u5834.003"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2147215381-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u5927\u516C\u5712/\u7C43\u7403\u5834.004"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-238706442-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u5927\u516C\u5712/\u7C43\u7403\u5834.005"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-1796879962-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u5927\u516C\u5712/\u7C43\u7403\u5834.006"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-668089617-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u516C\u57121"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-1652717150-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u516C\u57121/\u7C43\u7403\u5834"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-684302722-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u516C\u57121/\u7C43\u7403\u5834/\u7403\u67F1.001"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-47831994-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u516C\u57121/\u7C43\u7403\u5834/\u7403\u67F1.002"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-1556294365-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u516C\u57121/\u7C43\u7403\u5834.001"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-93975302-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u570B\u6C11\u5C0F\u5B78"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-1417664675-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u570B\u6C11\u5C0F\u5B78/\u570D\u6B04\u5927\u9580.001"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-1274193617-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u570B\u6C11\u5C0F\u5B78/\u64CD\u5834"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-1876351650-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u570B\u6C11\u5C0F\u5B78/\u6821\u5712\u570D\u6B04"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-1720120892-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u570B\u6C11\u5C0F\u5B78/\u6821\u5712\u570D\u6B04.001"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-1929227753-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u570B\u6C11\u5C0F\u5B78/\u6821\u5712\u570D\u6B04.002"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2039193960-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u570B\u6C11\u5C0F\u5B78/\u6821\u5712\u570D\u6B04.003"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-198201639-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u570B\u6C11\u5C0F\u5B78/\u6821\u5712\u570D\u6B04.004"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-1161439904-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u570B\u6C11\u5C0F\u5B78/\u7C43\u7403\u5834.002"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-1468767966-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u570B\u6C11\u5C0F\u5B78/\u7C43\u7403\u5834.008"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-577321562-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-919132149155446097-801413979
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/\u505C\u8ECA\u724C"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-634843258
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (36)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1601094998
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (37)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1100133793
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (38)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1393017735
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (39)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1726186541
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (40)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-426832463
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (41)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1184531373
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (42)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-646085228
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (43)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1315316037
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (44)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1242739949
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (45)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1171568004
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (46)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-71145003
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (47)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-101731350
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (48)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1099548675
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (49)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1773470643
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (50)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-998716698
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (51)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-206136054
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (52)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-998400708
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (53)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-375951624
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (54)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-671346522
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (55)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-987866025
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (56)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-490085927
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (57)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-212229740
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (58)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1991023508
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (59)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-470249206
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (60)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1019590815
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (61)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-975706886
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (62)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-314511301
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (63)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1165800402
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (64)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1020741507
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (65)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-506908973
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (66)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1410363528
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (67)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-383640058
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (68)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-863122990
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (69)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1356027888
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (70)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-329917605
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (71)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-194364401
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (72)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-692670845
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (73)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1864733675
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (74)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-2146232695
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (75)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-104106316
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (76)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1422019847
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (77)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1786729693
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (78)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-472687036
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (79)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-2142614057
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (80)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1715148562
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (81)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-301792039
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (82)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-822758917
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (83)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-820330066
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (84)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1690463812
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (85)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1325254006
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (86)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1164480707
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (87)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-30058273
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (88)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1898674122
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (89)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1210057916
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/ParkingSpaceManager2/\u505C\u8ECA\u683C
+      (90)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-828914604-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/\u505C\u8ECA\u9032\u51FA\u7AD9.001"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-482116331-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/\u7E73\u8CBB\u6A5F.001"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-559952734-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u58342/\u505C\u8ECA\u9032\u51FA\u7AD9.002"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-589417219-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u7ACB\u9AD4\u505C\u8ECA\u5834"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-919132149155446097-290419310
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u7ACB\u9AD4\u505C\u8ECA\u5834/\u505C\u8ECA\u724C"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-506320785
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u7ACB\u9AD4\u505C\u8ECA\u5834/ParkingSpaceManager3/\u505C\u8ECA\u683C"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1555054625
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u7ACB\u9AD4\u505C\u8ECA\u5834/ParkingSpaceManager3/\u505C\u8ECA\u683C
+      (1)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1109369301
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u7ACB\u9AD4\u505C\u8ECA\u5834/ParkingSpaceManager3/\u505C\u8ECA\u683C
+      (2)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1991187650
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u7ACB\u9AD4\u505C\u8ECA\u5834/ParkingSpaceManager3/\u505C\u8ECA\u683C
+      (3)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1098939381
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u7ACB\u9AD4\u505C\u8ECA\u5834/ParkingSpaceManager3/\u505C\u8ECA\u683C
+      (4)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-725004543
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u7ACB\u9AD4\u505C\u8ECA\u5834/ParkingSpaceManager3/\u505C\u8ECA\u683C
+      (5)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1828392933
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u7ACB\u9AD4\u505C\u8ECA\u5834/ParkingSpaceManager3/\u505C\u8ECA\u683C
+      (6)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-740517728
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u7ACB\u9AD4\u505C\u8ECA\u5834/ParkingSpaceManager3/\u505C\u8ECA\u683C
+      (7)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-283808154
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u7ACB\u9AD4\u505C\u8ECA\u5834/ParkingSpaceManager3/\u505C\u8ECA\u683C
+      (8)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-8891613-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u7ACB\u9AD4\u505C\u8ECA\u5834/\u505C\u8ECA\u683C.002"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-445496445-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u7ACB\u9AD4\u505C\u8ECA\u5834/\u65B9\u5411\u6307\u793A\u6A19\u8A8C"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-919132149155446097-1032798381
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u7ACB\u9AD4\u505C\u8ECA\u5834/\u65CB\u8F49\u6A13\u68AF
+      \u78B0\u649E/\u65CB\u8F49\u6A13\u68AF \u78B0\u649E\u5075\u6E2C 1\u6A13\u5916\u5074"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-919132149155446097-1588843892
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u7ACB\u9AD4\u505C\u8ECA\u5834/\u65CB\u8F49\u6A13\u68AF
+      \u78B0\u649E/\u65CB\u8F49\u6A13\u68AF \u78B0\u649E\u5075\u6E2C 1\u6A13\u5167\u5074"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-919132149155446097-790777441
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u7ACB\u9AD4\u505C\u8ECA\u5834/\u65CB\u8F49\u6A13\u68AF
+      \u78B0\u649E/\u65CB\u8F49\u6A13\u68AF \u78B0\u649E\u5075\u6E2C 2\u6A13\u5916\u5074"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-919132149155446097-551649707
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u7ACB\u9AD4\u505C\u8ECA\u5834/\u65CB\u8F49\u6A13\u68AF
+      \u78B0\u649E/\u65CB\u8F49\u6A13\u68AF \u78B0\u649E\u5075\u6E2C 2\u6A13\u5167\u5074"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-919132149155446097-1859236302
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u7ACB\u9AD4\u505C\u8ECA\u5834/\u65CB\u8F49\u6A13\u68AF
+      \u78B0\u649E/\u65CB\u8F49\u6A13\u68AF \u78B0\u649E\u5075\u6E2C 3\u6A13\u5916\u5074"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-919132149155446097-1372849807
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u7ACB\u9AD4\u505C\u8ECA\u5834/\u65CB\u8F49\u6A13\u68AF
+      \u78B0\u649E/\u65CB\u8F49\u6A13\u68AF \u78B0\u649E\u5075\u6E2C 3\u6A13\u5167\u5074"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-919132149155446097-1270198920
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u7ACB\u9AD4\u505C\u8ECA\u5834/\u5761\u9053\u505C\u6B62"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-277215212
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-135808670
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (1)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1398112094
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (2)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-419265989
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (3)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1076561364
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (4)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-226151839
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (5)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1777619686
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (6)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-905821818
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (7)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1668664609
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (8)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-477036735
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (9)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-380198812
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (10)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1725305092
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (11)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-951647144
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (12)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-318974439
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (13)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1235694863
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (14)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-559939062
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (15)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-919840895
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (16)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1155781559
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (17)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1240738958
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (18)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-651191867
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (86)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1327169547
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (19)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1041981236
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (80)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1027148901
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (81)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-51232929
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (82)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1803445665
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (83)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1212775699
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (84)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1417502435
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (85)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1040812405
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (20)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1681728763
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (21)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1183325226
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (22)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-982089042
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (23)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-2106912598
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (24)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1927942071
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (25)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-2090863538
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (26)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1294028657
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (27)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1263044387
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (28)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-2076094286
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (29)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1951968538
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (30)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1583023765
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (31)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-2030647803
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (32)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-239088954
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (33)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-891547997
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (34)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1801033098
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (35)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1210573626
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (36)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1238254281
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (37)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-613369201
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (38)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1875481238
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (39)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1097334810
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (40)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1230278422
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (41)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1937186633
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (42)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-455517476
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (43)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-203457156
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (44)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1059108662
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (45)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-645519385
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (46)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-2129473427
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (47)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1593682375
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (48)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1314583371
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (49)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-27999475
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (50)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1289588150
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (51)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-122879139
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (52)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1664450924
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (53)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1659235293
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (54)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-485160410
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (55)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1842424411
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (56)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-2062514122
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (57)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1276529894
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (58)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-701169699
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (59)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-288412455
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (60)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-426112323
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (61)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1710229789
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (62)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-148247216
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (63)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1872558128
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (64)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1784856937
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (65)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1116034012
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (76)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1287513390
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (77)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-656896510
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (78)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-11717508
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (79)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1791025510
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (66)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-121377321
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (67)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-696618954
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (68)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1717362632
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (69)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1887679050
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (70)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1642721244
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (71)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1493353107
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (72)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1360591400
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (73)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1290510849
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (74)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2579863921780515454-1667609452
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u8DEF\u908A\u5074\u505C\u683C
+      (75)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-919132149155446097-1098508780
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/ParkingSpaceManager4 \u5074\u505C/\u6A5F\u8ECA\u505C\u8ECA\u683C"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-53354749-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u52A0\u6CB9\u7AD9.001"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-1635112866-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-919132149155446097-474714020
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834/\u505C\u8ECA\u724C"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1088686507
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834/ParkingSpaceManager/\u505C\u8ECA\u683C"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-2041306133
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834/ParkingSpaceManager/\u505C\u8ECA\u683C
+      (1)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1114895298
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834/ParkingSpaceManager/\u505C\u8ECA\u683C
+      (2)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1332678071
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834/ParkingSpaceManager/\u505C\u8ECA\u683C
+      (3)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-98014247
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834/ParkingSpaceManager/\u505C\u8ECA\u683C
+      (4)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-847326301
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834/ParkingSpaceManager/\u505C\u8ECA\u683C
+      (5)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1034290926
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834/ParkingSpaceManager/\u505C\u8ECA\u683C
+      (6)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-224981841
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834/ParkingSpaceManager/\u505C\u8ECA\u683C
+      (7)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1616574325
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834/ParkingSpaceManager/\u505C\u8ECA\u683C
+      (8)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-797181330
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834/ParkingSpaceManager/\u505C\u8ECA\u683C
+      (9)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1646938776
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834/ParkingSpaceManager/\u505C\u8ECA\u683C
+      (10)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1239717752
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834/ParkingSpaceManager/\u505C\u8ECA\u683C
+      (11)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-2028404449
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834/ParkingSpaceManager/\u505C\u8ECA\u683C
+      (12)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1873037567
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834/ParkingSpaceManager/\u505C\u8ECA\u683C
+      (13)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1571740013
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834/ParkingSpaceManager/\u505C\u8ECA\u683C
+      (14)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-2140783936
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834/ParkingSpaceManager/\u505C\u8ECA\u683C
+      (15)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-497110660
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834/ParkingSpaceManager/\u505C\u8ECA\u683C
+      (16)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1986566677
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834/ParkingSpaceManager/\u505C\u8ECA\u683C
+      (17)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-413615704
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834/ParkingSpaceManager/\u505C\u8ECA\u683C
+      (18)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1011601970
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834/ParkingSpaceManager/\u505C\u8ECA\u683C
+      (19)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1977862196
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834/ParkingSpaceManager/\u505C\u8ECA\u683C
+      (20)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1745933879
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834/ParkingSpaceManager/\u505C\u8ECA\u683C
+      (21)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-211094440
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834/ParkingSpaceManager/\u505C\u8ECA\u683C
+      (22)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-823070159
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834/ParkingSpaceManager/\u505C\u8ECA\u683C
+      (23)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-889523564
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834/ParkingSpaceManager/\u505C\u8ECA\u683C
+      (24)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-629681440
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834/ParkingSpaceManager/\u505C\u8ECA\u683C
+      (25)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-2086158321
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834/ParkingSpaceManager/\u505C\u8ECA\u683C
+      (26)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1913569307
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834/ParkingSpaceManager/\u505C\u8ECA\u683C
+      (27)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-148052420
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834/ParkingSpaceManager/\u505C\u8ECA\u683C
+      (28)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-111932510
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834/ParkingSpaceManager/\u505C\u8ECA\u683C
+      (29)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-789854594
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834/ParkingSpaceManager/\u505C\u8ECA\u683C
+      (30)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-802860986
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834/ParkingSpaceManager/\u505C\u8ECA\u683C
+      (31)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-1873554244
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834/ParkingSpaceManager/\u505C\u8ECA\u683C
+      (32)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-669114080
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834/ParkingSpaceManager/\u505C\u8ECA\u683C
+      (33)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-900119822
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834/ParkingSpaceManager/\u505C\u8ECA\u683C
+      (34)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-7657070454470893438-2001843893
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834/ParkingSpaceManager/\u505C\u8ECA\u683C
+      (35)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-170231638-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834/\u505C\u8ECA\u9032\u51FA\u7AD9"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2061526781-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u5927\u578B\u5730\u9EDE/\u505C\u8ECA\u5834/\u7E73\u8CBB\u6A5F"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-1246432530-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u99AC\u8DEF\u7269\u4EF6/\u5341\u5B57\u8DEF\u53E3"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-482936585-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u99AC\u8DEF\u7269\u4EF6/\u7DB2\u72C0\u7DDA"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-762835483-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u99AC\u8DEF\u7269\u4EF6/\u7DB2\u72C0\u7DDA/\u7DB2\u72C0\u7DDA.001"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-21708828-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u99AC\u8DEF\u7269\u4EF6/\u7DB2\u72C0\u7DDA/\u7DB2\u72C0\u7DDA.002"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-58369503-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u99AC\u8DEF\u7269\u4EF6/\u7DB2\u72C0\u7DDA/\u7DB2\u72C0\u7DDA.003"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-984704963-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u99AC\u8DEF\u7269\u4EF6/\u7DB2\u72C0\u7DDA/\u7DB2\u72C0\u7DDA.004"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-168084108-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u99AC\u8DEF\u7269\u4EF6/\u7DB2\u72C0\u7DDA/\u7DB2\u72C0\u7DDA.005"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-33556090-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u99AC\u8DEF\u7269\u4EF6/\u7DB2\u72C0\u7DDA/\u7DB2\u72C0\u7DDA.006"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-1460522989-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u99AC\u8DEF\u7269\u4EF6/\u7DB2\u72C0\u7DDA/\u7DB2\u72C0\u7DDA.007"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-1988678062-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u99AC\u8DEF\u7269\u4EF6/\u7DB2\u72C0\u7DDA/\u7DB2\u72C0\u7DDA.008"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-1909405822-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u99AC\u8DEF\u7269\u4EF6/\u7DB2\u72C0\u7DDA/\u7DB2\u72C0\u7DDA.009"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-1254351741-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u99AC\u8DEF\u7269\u4EF6/\u7DB2\u72C0\u7DDA/\u7DB2\u72C0\u7DDA.010"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-151327798-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u99AC\u8DEF\u7269\u4EF6/\u7DB2\u72C0\u7DDA/\u7DB2\u72C0\u7DDA.011"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-1971214286-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u99AC\u8DEF\u7269\u4EF6/\u7DB2\u72C0\u7DDA/\u7DB2\u72C0\u7DDA.012"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-1268647214-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u99AC\u8DEF\u7269\u4EF6/\u7DB2\u72C0\u7DDA/\u7DB2\u72C0\u7DDA.013"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-177812376-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u99AC\u8DEF\u7269\u4EF6/\u9053\u8DEF\u6A19\u7DDA(\u4E0A\u534A)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-1092067869-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u99AC\u8DEF\u7269\u4EF6/\u7D05\u7DDA"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-259405078-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u99AC\u8DEF\u7269\u4EF6/\u53F3\u4E0A\u89D2\u4EBA\u884C\u9053"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-399167892-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u99AC\u8DEF\u7269\u4EF6/\u53F3\u4E0A\u89D2\u4EBA\u884C\u9053/\u5730\u5716\u4E0B\u65B9\u4EBA\u884C\u9053"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2145817707-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u99AC\u8DEF\u7269\u4EF6/\u53F3\u4E0A\u89D2\u4EBA\u884C\u9053/\u5DE6\u4E0A\u89D2\u4EBA\u884C\u9053"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-1617283404-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u99AC\u8DEF\u7269\u4EF6/\u9053\u8DEF\u6A19\u7DDA(\u4E0B\u534A)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-275843769-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u99AC\u8DEF\u7269\u4EF6/\u6392\u6C34\u5B54\u6C34\u6CE5\u5730"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-1802532509-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u99AC\u8DEF\u7269\u4EF6/\u5206\u9694\u5CF6"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-869759944-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u96B1\u5F62\u7246 /Text (TMP)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-493249027-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u96B1\u5F62\u7246 /\u96B1\u5F62\u7246 (1)/Text (TMP)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-1131255220-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u96B1\u5F62\u7246 (2)/Text (TMP)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-1007053484-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u96B1\u5F62\u7246 (3)/Text (TMP)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-1516380350-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u96B1\u5F62\u7246 (4)/Text (TMP)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-299498237-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u96B1\u5F62\u7246 (5)/Text (TMP)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-1586177648-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u96B1\u5F62\u7246 (6)/Text (TMP)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-424111036-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u96B1\u5F62\u7246 (7)/Text (TMP)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-329263935-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u96B1\u5F62\u7246 (8)/Text (TMP)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-222487623-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u96B1\u5F62\u7246 (9)/Text (TMP)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-1596845675-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u96B1\u5F62\u7246 (10)/Text (TMP)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-620867506-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u96B1\u5F62\u7246 (11)/Text (TMP)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-1164162677-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u96B1\u5F62\u7246 (12)/Text (TMP)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-1257810325-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u96B1\u5F62\u7246 (13)/Text (TMP)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-1544173858-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u96B1\u5F62\u7246 (14)/Text (TMP)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-1369536906-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u96B1\u5F62\u7246 (15)/Text (TMP)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-391811611-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u96B1\u5F62\u7246 (16)/Text (TMP)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-218995795-0
+    originalFlags: 0
+    path: "UI\u4ECB\u9762/\u96B1\u5F62\u7246 (17)/Text (TMP)"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-8818687664135548495-8475274637635693264
+    originalFlags: 0
+    path: "RRRR/\u4E8B\u6545/\u8B66\u544A\u724C"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-6091704045185024672-85994089
+    originalFlags: 0
+    path: "RRRR/\u4F4F\u5B85 \u9AD8\u6A13/BUILDING_lambert1_0"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-8252057368373558574-85994089
+    originalFlags: 0
+    path: "RRRR/\u4F4F\u5B85 \u9AD8\u6A13/\u53F3\u4E0A\u9AD8\u6A13\u5408\u96C6"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-3732226667818536386-85994089
+    originalFlags: 0
+    path: "RRRR/\u4F4F\u5B85 \u9AD8\u6A13/\u53F3\u4E0B\u4F4F\u5B85\u5408\u96C6"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2138424370612202972-85994089
+    originalFlags: 0
+    path: "RRRR/\u4F4F\u5B85 \u9AD8\u6A13/\u53F3\u4E0B\u9AD8\u6A13\u5408\u96C6"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-5486398901491084260-85994089
+    originalFlags: 0
+    path: "RRRR/\u4F4F\u5B85 \u9AD8\u6A13/\u5927\u578B\u4F4F\u5B85\u5EFA\u7BC9\u7269"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-5770679574700494682-85994089
+    originalFlags: 0
+    path: "RRRR/\u4F4F\u5B85 \u9AD8\u6A13/\u5927\u578B\u4F4F\u5B85\u5EFA\u7BC9\u72696"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-11668455180406795144-85994089
+    originalFlags: 0
+    path: "RRRR/\u4F4F\u5B85 \u9AD8\u6A13/\u5DE6\u4E0A\u4F4F\u5B85\u5408\u96C6"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-13008919618248310724-85994089
+    originalFlags: 0
+    path: "RRRR/\u4F4F\u5B85 \u9AD8\u6A13/\u5DE6\u4E0A\u9AD8\u6A13\u5408\u96C6"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-12827854508373067242-85994089
+    originalFlags: 0
+    path: "RRRR/\u4F4F\u5B85 \u9AD8\u6A13/\u5DE6\u4E0B\u4F4F\u5B85\u5408\u96C6"
+  - id: GlobalObjectId_V1-2-97808ba388da4814187ba25209a2a534-2368150527848853862-85994089
+    originalFlags: 0
+    path: "RRRR/\u4F4F\u5B85 \u9AD8\u6A13/\u5DE6\u4E0B\u9AD8\u6A13\u5408\u96C6"

@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NPC
+  - Car
+  - Road
+  - Obstacle
+  - RedLight
+  - GreenLight
+  - YellowLight
+  - WhiteCar
+  - TrafficLight
+  - TrafficSensor
+  - AI_Car
+  - Minimap
+  - BrakeZone
+  - Despawn
+  - BrakeTrigger
+  - Intersection
+  - WideRoad
+  - Ambulance
+  - Wall
+  - RoadBlock
+  - Wheel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Road
+  - Water
+  - UI
+  - TrafficLight
+  - Minimap
+  - AI_Car
+  - Car
+  - post
+  - Intersection
+  - 
+  - 
+  - 
+  - ParkingLine
+  - ParkingZone
+  - LineSensor
+  - VehicleBody
+  - SpiralWall
+  - SpiralGoal
+  - RampZone
+  - RampLine
+  - "\u5730\u677F\u52A0\u9053\u8DEF"
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

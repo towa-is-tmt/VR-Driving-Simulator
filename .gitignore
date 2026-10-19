@@ -1,0 +1,102 @@
+# ================================================================
+# Unity 專案 .gitignore（公開版）
+# ================================================================
+
+# ── Unity 自動產生的資料夾（重新開啟專案時會自動重建）──
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# ── IDE 與方案檔（Unity 會自動產生）──
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ── Unity 暫存與當機紀錄 ──
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+crashlytics-build.properties
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+/[Aa]ssets/AddressableAssetsData/*/*.bin*
+
+# ── 作業系統雜檔 ──
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── 本專案的備份、建置與文件（不屬於原始碼）──
+/_備份_*/
+/_移出Assets_*/
+/Claude outputs/
+/TrainingBuild/
+*.zip
+*.docx
+
+# ── 強化學習訓練輸出：保留 .onnx 模型、設定檔與 TensorBoard 紀錄，排除大型 checkpoint ──
+/results/**/*.pt
+/results/**/run_logs/
+
+# ================================================================
+# 第三方素材（授權不允許公開散布）
+# 需要完整執行時，請依 README 自行從原始來源匯入
+# ================================================================
+/Assets/CustomPackage/
+/Assets/CustomPackage.meta
+/Assets/Car_Vehicle-pro3d/
+/Assets/Car_Vehicle-pro3d.meta
+/Assets/Car github/
+/Assets/Car github.meta
+/Assets/npc_casual_set_00/
+/Assets/npc_casual_set_00.meta
+/Assets/多行人原始檔/
+/Assets/多行人原始檔.meta
+/Assets/車子原檔/
+/Assets/車子原檔.meta
+/Assets/Ghost Zone/
+/Assets/Ghost Zone.meta
+
+# Logitech 方向盤 SDK 原生 DLL
+/Assets/Plugins/x86_64/LogitechSteeringWheel*.dll
+/Assets/Plugins/x86_64/LogitechSteeringWheel*.dll.meta
+
+# 微軟正黑體（Windows 內建字型，不可公開散布）與由它產生的 TMP 字型資產
+/Assets/Font/
+/Assets/Font.meta
+/Assets/Fonts/
+/Assets/Fonts.meta
+
+# 從 Sketchfab、CGTrader、Textures.com 等網站下載的原始貼圖，以及含品牌商標的招牌照片
+/Assets/blender/圖片合集/
+/Assets/blender/圖片合集.meta
+
+# Sketchfab 下載的安全帽模型
+/Assets/車流資料/t1-helmet/
+/Assets/車流資料/t1-helmet.meta
+
+# Mixamo 動畫原始檔（動畫控制器是自製的，保留）
+/Assets/車流資料/anin/**/*.fbx
+/Assets/車流資料/anin/**/*.fbx.meta
+
+# ML-Agents 執行時產生的計時紀錄（內含本機 Unity 啟動參數與工作階段 ID）
+/Assets/ML-Agents/Timers/
+/Assets/ML-Agents/Timers.meta
